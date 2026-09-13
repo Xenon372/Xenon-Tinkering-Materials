@@ -6,6 +6,8 @@
       "formula": [
         64,
         "$height",
+        -64,
+        "max",
         "-",
         "non-negative",
         32,
@@ -32,6 +34,8 @@
       "formula": [
         64,
         "$height",
+        -64,
+        "max",
         "-",
         "non-negative",
         64,
@@ -63,6 +67,8 @@
       "formula": [
         64,
         "$height",
+        -64,
+        "max",
         "-",
         "non-negative",
         64,
@@ -100,6 +106,8 @@
       "formula": [
         64,
         "$height",
+        -64,
+        "max",
         "-",
         "non-negative",
         64,

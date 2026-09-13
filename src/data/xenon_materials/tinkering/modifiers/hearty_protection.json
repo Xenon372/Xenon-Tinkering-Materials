@@ -6,6 +6,8 @@
       "damage_source": "mantle:can_protect",
       "formula": [
         "$health",
+        20.0,
+        "min",
         14.0,
         "-",
         10.0,
@@ -22,7 +24,7 @@
         "health": {
           "type": "tconstruct:entity",
           "entity_type": "tconstruct:health",
-          "fallback": 0.0,
+          "fallback": 20.0,
           "which": "target"
         }
       }

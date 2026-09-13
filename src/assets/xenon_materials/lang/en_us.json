@@ -93,10 +93,6 @@
   "modifier.xenon_materials.frigid.description": "Projectile deals more damage to fire-based creatures",  
   "modifier.xenon_materials.frigid.projectile_damage": "Frigid Power",
   
-  "modifier.xenon_materials.duritae": "Duritae (Unused)",
-  "modifier.xenon_materials.duritae.flavor": "Hard to break (how did you find this?)",
-  "modifier.xenon_materials.duritae.description": "Tool lasts longer... most of the time",
-  
   "block.xenon_materials.midnight_bronze_block": "Midnight Bronze Block",
   "item.xenon_materials.midnight_bronze_ingot": "Midnight Bronze Ingot",
   "item.xenon_materials.midnight_bronze_nugget": "Midnight Bronze Nugget",
@@ -390,26 +386,15 @@
   "modifier.xenon_materials.lightshot": "Lightshot",
   "modifier.xenon_materials.lightshot.flavor": "Say cheese!",
   "modifier.xenon_materials.lightshot.description": "Tool consumes extra durability to fire speedy light arrows",
-  
-  "block.xenon_materials.trafficlight_block": "Trafficlight Block",
-  "item.xenon_materials.trafficlight_ingot": "Trafficlight Ingot",
-  "item.xenon_materials.trafficlight_nugget": "Trafficlight Nugget",
-  
-  "fluid_type.xenon_materials.molten_trafficlight": "Molten Trafficlight",
-  "block.xenon_materials.molten_trafficlight": "Molten Trafficlight",
-  "fluid.xenon_materials.molten_trafficlight": "Molten Trafficlight",
-  "fluid.xenon_materials.molten_trafficlight_flowing": "Flowing Molten Trafficlight",
-  "item.xenon_materials.molten_trafficlight_bucket": "Molten Trafficlight Bucket",
-  "fluid.xenon_materials.molten_trafficlight.fluid_effect": "Molten trafficlight is really hot and tends to burn easily, handle with care.",
-  
-  "material.xenon_materials.trafficlight": "Trafficlight",
-  "material.xenon_materials.trafficlight.flavor": "flavor text",
-  "material.xenon_materials.trafficlight.encyclopedia": "Gains +5% attack speed per hit, resets every 3 hits.",
-  "material.xenon_materials.trafficlight.ranged": "Gains +5% draw speed per hit, resets every 3 hits.",
-  "material.xenon_materials.trafficlight.armor": "Gains +10% movement speed per hit, resets every 3 hits.",
-  
-  "modifier.xenon_materials.traffic_control": "Traffic Control",
-  "modifier.xenon_materials.traffic_control.flavor": "Green means go!",
-  "modifier.xenon_materials.traffic_control.description": "Tool deals more damage against armored targets and breaks harder blocks faster",
-  "modifier.xenon_materials.traffic_control.draw_speed": "Traffic Control Speed"
+
+  "item.xenon_materials.firelight_silk": "Firelight Silk",
+
+  "material.xenon_materials.firelight_silk": "Firelight Silk",
+  "material.xenon_materials.firelight_silk.flavor": "flavor text",
+  "material.xenon_materials.firelight_silk.encyclopedia": "",
+  "material.xenon_materials.firelight_silk.ranged": "",
+
+  "modifier.xenon_materials.firesoul": "Firesoul",
+  "modifier.xenon_materials.firesoul.flavor": "flavor text",
+  "modifier.xenon_materials.firesoul.description": "???"
 }
