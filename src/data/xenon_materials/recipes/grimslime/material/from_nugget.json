@@ -1,0 +1,7 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": { "item": "xenon_materials:grimslime_nugget" },
+  "value": 1,
+  "needed": 9,
+  "material": "xenon_materials:grimslime"
+}

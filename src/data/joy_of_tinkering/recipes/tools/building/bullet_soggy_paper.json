@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:tool_building",
+  "extra_materials": [
+    "xenon_materials:soggy_paper"
+  ],
+  "extra_requirements": [
+    {
+      "item": "xenon_materials:soggy_paper"
+    }
+  ],
+  "result": "joy_of_tinkering:bullet",
+  "result_count": 6
+}

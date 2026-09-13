@@ -1,0 +1,20 @@
+{
+  "level_display": "tconstruct:no_levels",
+  "modules": [
+    {
+      "type": "tconstruct:material_variant_color",
+      "material": "xenon_materials:fungal"
+    },
+    {
+      "type": "tconstruct:capacity_bar",
+      "each_level": 100,
+      "multiplier": "tconstruct:durability"
+    },
+    {
+      "type": "tconstruct:durability_shield",
+      "color": "977251"
+    }
+  ],
+  "priority": 200,
+  "tooltip_display": "always"
+}

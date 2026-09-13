@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "tconstruct:cobalt_block",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": { "#": { "item": "xenon_materials:brimsteel_nugget" }},
+  "result": {
+    "item": "xenon_materials:brimsteel_ingot"
+  }
+}

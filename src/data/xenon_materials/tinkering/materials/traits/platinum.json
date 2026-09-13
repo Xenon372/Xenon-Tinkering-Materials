@@ -1,0 +1,13 @@
+{
+  "perStat": {
+    "tconstruct:melee_harvest": [
+      { "name": "tconstruct:lustrous", "level": 2 }
+    ],
+    "tconstruct:ranged": [
+      { "name": "tconstruct:olympic", "level": 1 }
+    ],
+    "tconstruct:armor": [
+      { "name": "xenon_materials:dispel", "level": 1 }
+    ]
+  }
+}

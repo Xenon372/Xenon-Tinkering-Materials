@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:block",
+  "pools": [{
+    "rolls": 1.0,
+    "bonus_rolls": 0.0,
+    "entries": [{ "type": "minecraft:item", "name": "xenon_materials:midnight_bronze_block" }],
+    "conditions": [{ "condition": "minecraft:survives_explosion" }]
+  }],
+  "random_sequence": "xenon_materials:blocks/midnight_bronze_block"
+}

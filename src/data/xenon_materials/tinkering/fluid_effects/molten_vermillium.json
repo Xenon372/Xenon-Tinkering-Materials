@@ -1,0 +1,39 @@
+{
+  "fluid": {
+    "tag": "xenon_materials:molten_vermillium",
+    "amount": 10
+  },
+  "block_effects": [
+    {
+      "type": "tconstruct:mob_effect_cloud",
+      "effects": [
+        {
+          "effect": "minecraft:health_boost",
+          "time": 300,
+          "level": 2
+        }
+      ]
+    }
+  ],
+  "entity_effects": [
+    {
+        "type": "tconstruct:damage",
+        "damage": 3.0,
+        "damage_type": {
+          "melee": "tconstruct:fluid_fire_melee",
+          "ranged": "tconstruct:fluid_fire_ranged"
+        },
+      "target": {
+        "type": "mantle:inverted",
+        "inverted_type": "mantle:fire_immune"
+		}
+     },
+    {
+      "type": "tconstruct:mob_effect",
+      "action": "set",
+      "effect": "minecraft:health_boost",
+      "time": 300,
+      "level": 2
+    }
+  ]
+}

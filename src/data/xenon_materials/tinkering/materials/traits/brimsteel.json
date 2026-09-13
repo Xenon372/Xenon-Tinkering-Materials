@@ -1,0 +1,11 @@
+{
+  "default": [
+    { "name": "xenon_materials:thermodynamic", "level": 1 }
+  ],
+  "perStat": {
+    "tconstruct:armor": [
+      { "name": "xenon_materials:hyperthermic", "level": 1 },
+      { "name": "xenon_materials:firewall", "level": 1 }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "block_effects": [
+    {
+      "type": "tconstruct:mob_effect_cloud",
+      "effects": [
+        {
+          "effect": "minecraft:slowness",
+          "level": 2,
+          "time": 200
+        }
+      ]
+    }
+  ],
+  "entity_effects": [
+    {
+        "type": "tconstruct:damage",
+        "damage": 4.0,
+        "damage_type": {
+          "melee": "tconstruct:fluid_magic_melee",
+          "ranged": "tconstruct:fluid_magic_ranged"
+        }
+    },
+    {
+      "type": "tconstruct:mob_effect",
+      "action": "set",
+      "effect": "minecraft:slowness",
+      "level": 2,
+      "time": 200
+    }
+  ],
+  "fluid": {
+    "tag": "xenon_materials:molten_platinum_gold",
+    "amount": 10
+  }
+}

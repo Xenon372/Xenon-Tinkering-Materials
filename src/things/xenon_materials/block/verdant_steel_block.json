@@ -1,0 +1,9 @@
+{
+  "type": "plain",
+  "map_color": "emerald",
+  "requires_tool_for_drops": true,
+  "explosion_resistance": 6,
+  "destroy_time": 6,
+  "sound_type": "minecraft:metal",
+  "item": {}  
+}

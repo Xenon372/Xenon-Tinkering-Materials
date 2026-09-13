@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:material_fluid",
+  "input": "tconstruct:wood",
+  "fluid": {
+    "amount": 250,
+    "tag": "forge:mushroom_stew"
+  },
+  "temperature": 100,
+  "output": "xenon_materials:fungal"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "xenon_materials:deepbrass",
+  "temperature": 935,
+  "result": {
+    "fluid": "xenon_materials:molten_deepbrass",
+    "amount": 90
+  }
+}

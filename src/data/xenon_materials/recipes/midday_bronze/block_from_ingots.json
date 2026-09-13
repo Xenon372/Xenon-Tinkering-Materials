@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "tconstruct:cobalt_block",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": { "#": { "item": "xenon_materials:midday_bronze_ingot" }},
+  "result": {
+    "item": "xenon_materials:midday_bronze_block"
+  }
+}

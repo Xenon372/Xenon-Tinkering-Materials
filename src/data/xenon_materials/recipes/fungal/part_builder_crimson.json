@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "minecraft:nether_wart_block"
+  },
+  "material": "xenon_materials:fungal#crimson",
+  "needed": 1,
+  "value": 1
+}

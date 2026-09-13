@@ -1,0 +1,11 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": { "tag": "tconstruct:casts/multi_use/ingot" },
+  "cast_consumed": false,
+  "fluid": {
+    "fluid": "xenon_materials:molten_bluehat",
+    "amount": 90
+  },
+  "result": "xenon_materials:bluehat_ingot",
+  "cooling_time": 72
+}

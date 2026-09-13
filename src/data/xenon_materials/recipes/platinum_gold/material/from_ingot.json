@@ -1,0 +1,7 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": { "item": "xenon_materials:platinum_gold_ingot" },
+  "value": 1,
+  "needed": 1,
+  "material": "xenon_materials:platinum_gold"
+}

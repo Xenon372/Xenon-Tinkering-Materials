@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "xenon_materials:platinum_gold",
+  "temperature": 1450,
+  "result": {
+    "fluid": "xenon_materials:molten_platinum_gold",
+    "amount": 90
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": { "item": "xenon_materials:vermillium_nugget" },
+  "result": {
+    "fluid": "xenon_materials:molten_vermillium",
+    "amount": 10
+  },
+  "temperature": 917,
+  "time": 20
+}

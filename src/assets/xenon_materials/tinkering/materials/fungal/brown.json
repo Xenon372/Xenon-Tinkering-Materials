@@ -1,0 +1,33 @@
+{
+  "fallbacks": [ "wood", "stick" ],
+  "color": "977251",
+  "generator": {
+    "transformer": {
+      "type": "tconstruct:recolor_sprite",
+      "color_mapping": {
+        "type": "tconstruct:grey_to_color",
+        "palette": [
+          { "grey": 0,   "color": "FF000000" },
+          { "grey": 63,  "color": "FF6D503E" },
+          { "grey": 102, "color": "FF7C5B47" },
+          { "grey": 140, "color": "FF8D6850" },
+          { "grey": 178, "color": "FF946D52" },
+          { "grey": 216, "color": "FF977251" },
+          { "grey": 255, "color": "FF9C795A" }
+        ]
+      }
+    },
+    "supportedStats": [
+      "tconstruct:head",
+      "tconstruct:handle",
+      "tconstruct:binding",
+      "tconstruct:repair_kit",
+      "tconstruct:limb",
+      "tconstruct:grip",
+      "tconstruct:shield_core",
+      "tconstruct:maille",
+      "tconstruct:arrow_shaft"
+    ],
+    "ignoreMaterialStats": false
+  }
+}

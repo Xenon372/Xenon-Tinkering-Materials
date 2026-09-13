@@ -1,0 +1,31 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:conditional_melee_damage",
+	  "formula": [
+	    "$rest",
+	    72000,
+	    "/",
+	    "percent_clamp",
+	    1.6,
+	    "*",
+	    "$level",
+	    "*",
+	    "$damage",
+	    "+"
+	   ],
+    "percent": false,
+	"variables": {
+        "rest": {
+          "type": "tconstruct:entity",
+		  "entity_type": "tconstruct:player_stat",
+		  "stat": [ "minecraft:custom", "minecraft:time_since_rest" ],
+          "fallback": 72000,
+          "which": "attacker"
+		}
+	  }
+    }
+  ],
+  "tooltip_display": "always"
+}

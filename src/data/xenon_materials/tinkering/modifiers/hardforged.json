@@ -1,0 +1,40 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:repair",
+      "each_level": -0.125
+    },
+    {
+      "type": "tconstruct:reduce_tool_damage",
+      "cause": {
+        "type": "mantle:inverted",
+        "inverted_type": "tconstruct:tag",
+        "tag": "tconstruct:durability/bypass_reinforced"
+      },
+      "formula": [
+        "$max_durability",
+        0.1,
+        "*",
+        "$level",
+        "*",
+        "duplicate",
+        "$durability",
+        "-",
+        "non-negative",
+        "!/",
+        0.75,
+        "*"
+      ],
+      "percent": true,
+      "variables": {
+        "durability": "tconstruct:tool_durability",
+        "max_durability": {
+          "type": "tconstruct:tool_stat",
+          "stat": "tconstruct:durability"
+        }
+      }
+    }
+  ],
+  "tooltip_display": "always"
+}

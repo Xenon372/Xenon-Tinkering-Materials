@@ -1,0 +1,29 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:loot_to_capacity",
+      "amount": 3,
+      "chance": {
+        "each_level": 0.2
+      },
+      "owner": "xenon_materials:soilshield",
+      "consume": {
+        "tag": "xenon_materials:soilshields"
+      }
+    },
+    {
+      "type": "tconstruct:loot_to_capacity",
+      "amount": 5,
+      "chance": {
+        "each_level": 0.2
+      },
+      "owner": "xenon_materials:soilshield",
+      "consume": {
+        "tag": "xenon_materials:super_soilshields"
+      }
+    }
+  ],
+  "priority": 175,
+  "tooltip_display": "always"
+}

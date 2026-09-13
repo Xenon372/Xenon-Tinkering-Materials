@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "xenon_materials:item/midnight_bronze_ingot"
+    }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "fluid": "xenon_materials:molten_platinum",
+    "amount": 90
+  },
+  "temperature": 970,
+  "output": "xenon_materials:platinum"
+}

@@ -1,0 +1,10 @@
+{
+  "text": "Molten platinum gold is really dense, which makes it great for slowing your enemies down.",
+  "entity": [
+    "4.0 Magic Damage",
+    "10 seconds Slowness II"
+  ],
+  "block": [
+    "Lingering cloud with 10 seconds Slowness II"
+  ]
+}

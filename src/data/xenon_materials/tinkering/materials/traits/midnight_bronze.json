@@ -1,0 +1,13 @@
+{
+  "default": [
+    { "name": "xenon_materials:insomniac", "level": 1 }
+  ],
+  "perStat": {
+    "tconstruct:ranged": [
+      { "name": "xenon_materials:dexterous", "level": 1 }
+    ],
+    "tconstruct:armor": [
+      { "name": "xenon_materials:dexterous", "level": 1 }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "fluid": "xenon_materials:molten_midday_bronze",
+    "amount": 810
+  },
+  "result": "xenon_materials:midday_bronze_block",
+  "cooling_time": 180
+}

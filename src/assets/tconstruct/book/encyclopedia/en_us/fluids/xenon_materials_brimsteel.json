@@ -1,0 +1,10 @@
+{
+  "text": "Molten brimsteel is really hot and tends to burn easily, handle with care.",
+  "entity": [
+    "4.0 Fire Damage",
+    "+10 seconds fire"
+  ],
+  "block": [
+    "Places fire"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "fluid": "xenon_materials:molten_verdant_steel",
+    "amount": 810
+  },
+  "result": "xenon_materials:verdant_steel_block",
+  "cooling_time": 200
+}

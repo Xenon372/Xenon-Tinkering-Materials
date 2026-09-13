@@ -1,0 +1,11 @@
+{
+  "text": "Molten bluehat is the perfect power-up to help you cross rough terrain.",
+  "entity": [
+    "3.0 Magic Damage",
+    "7 seconds Double Jump",
+    "7 seconds Speed"
+  ],
+  "block": [
+    "Lingering cloud with 7 seconds Double Jump and 7 seconds Speed"
+  ]
+}

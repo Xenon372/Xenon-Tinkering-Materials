@@ -1,0 +1,42 @@
+{
+  "type": "flowing",
+  "slope_distance": 2,
+  "dropoff": 3,
+  "tick_delay": 50,
+  "bucket": {
+    "max_stack_size": 1,
+    "container": "minecraft:bucket"
+  },
+  "block": {
+    "type": "tconstruct:burning_liquid",
+    "burn_time": 5,
+    "damage": 1
+  },
+  "fluid_type": {
+    "parent": "",
+    "still_texture": "xenon_materials:fluid/brimsteel/still",
+    "flowing_texture": "xenon_materials:fluid/brimsteel/flowing",
+    "color": [255,255,255],
+    "density": 2000,
+    "luminosity": 6,
+    "temperature": 1550,
+    "viscosity": 10000,
+    "gaseous": false,
+
+    "motion_scale": 0.0023333,
+    "fall_distance_modifier": 0.5,
+    
+    "can_push_entity": true,
+    "can_swim": false,
+    "can_drown": false,
+    "can_extinguish": false,
+    "can_hydrate": false,
+    "can_convert_to_source": false,
+    "supports_boating": false,
+    
+    "sounds": {
+      "bucket_fill": "item.bucket.fill_lava",
+      "bucket_empty": "item.bucket.empty_lava"
+    }
+  }
+}

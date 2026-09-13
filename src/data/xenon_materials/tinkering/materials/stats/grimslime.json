@@ -1,0 +1,63 @@
+{
+  "stats": {
+    "tconstruct:binding": {},
+    "tconstruct:grip": {
+      "accuracy": 0.15,
+      "durability": 0.15,
+      "melee_damage": 3.0
+    },
+    "tconstruct:handle": {
+      "durability": 0.15,
+      "mining_speed": -0.1,
+      "melee_damage": 0.05,
+      "melee_speed": -0.05
+    },
+    "tconstruct:head": {
+      "durability": 1113,
+      "mining_speed": 6.5,
+      "mining_tier": "minecraft:netherite",
+      "melee_attack": 2.5
+    },
+    "tconstruct:limb": {
+      "accuracy": 0.05,
+      "draw_speed": 0.15,
+      "durability": 1113,
+      "velocity": 0.05
+    },
+    "tconstruct:maille": {},
+    "tconstruct:plating_helmet": {
+      "armor": 2.0,
+      "durability": 484,
+      "toughness": 0.5
+    },
+    "tconstruct:plating_chestplate": {
+      "armor": 7.0,
+      "durability": 704,
+      "toughness": 0.5
+    },
+    "tconstruct:plating_leggings": {
+      "armor": 5.0,
+      "durability": 660,
+      "toughness": 0.5
+    },
+    "tconstruct:plating_boots": {
+      "armor": 2.0,
+      "durability": 572,
+      "toughness": 0.5
+    },
+    "tconstruct:plating_shield": {
+      "durability": 792,
+      "toughness": 0.5
+    },
+    "joy_of_tinkering:barrel": {
+      "accuracy": 0.05,
+      "durability": 1113,
+      "velocity": 0.05
+    },
+    "joy_of_tinkering:firing_mechanism": {
+      "draw_speed": -0.15,
+      "max_ammo": 8.0,
+      "projectile_damage": 2.5
+    }
+  }
+}

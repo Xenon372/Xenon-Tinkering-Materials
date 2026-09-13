@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "minecraft:mushroom_stem"
+  },
+  "material": "xenon_materials:fungal#white",
+  "needed": 1,
+  "value": 1
+}

@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": { "item": "xenon_materials:verdant_steel_ingot" },
+  "result": {
+    "fluid": "xenon_materials:molten_verdant_steel",
+    "amount": 90
+  },
+  "temperature": 978,
+  "time": 64
+}

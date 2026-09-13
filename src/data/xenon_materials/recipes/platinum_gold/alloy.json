@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    { "tag": "xenon_materials:molten_platinum",     "amount":   180 },
+    { "tag": "tconstruct:molten_gold",   "amount":   90 }
+  ],
+  "result": {
+    "fluid": "xenon_materials:molten_platinum_gold",
+    "amount": 90
+  },
+  "temperature": 1450
+}

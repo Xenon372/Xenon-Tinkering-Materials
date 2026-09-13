@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "xenon_materials:verdant_steel",
+    "xenon_materials:neutralite",
+    "xenon_materials:vermillium",
+    "xenon_materials:ferroshroom",
+    "xenon_materials:aurucelium",
+    "xenon_materials:bluehat",
+    "xenon_materials:platinum"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:conditional_melee_damage",
+      "formula": [
+        64,
+        "$height",
+        "-",
+        "non-negative",
+        32,
+        "/",
+        "$level",
+        "*",
+        0.8,
+        "*",
+        "$damage",
+        "+"
+      ],
+      "percent": false,
+      "variables": {
+        "height": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:height",
+          "fallback": 0.0,
+          "which": "attacker"
+        }
+      }
+    },
+    {
+      "type": "tconstruct:conditional_stat",
+      "formula": [
+        64,
+        "$height",
+        "-",
+        "non-negative",
+        64,
+        "/",
+        "$level",
+        "*",
+        0.75,
+        "*",
+		"$value",
+		"+"
+      ],
+      "percent": false,
+      "stat": "tconstruct:draw_speed",
+      "variables": {
+        "height": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:height",
+          "fallback": 0.0
+        }
+      }
+    },
+    {
+      "type": "tconstruct:reduce_tool_damage",
+      "cause": {
+        "type": "mantle:inverted",
+        "inverted_type": "tconstruct:tag",
+        "tag": "tconstruct:durability/bypass_reinforced"
+      },
+      "formula": [
+        64,
+        "$height",
+        "-",
+        "non-negative",
+        64,
+        "/",
+        "$level",
+        "*",
+        0.1,
+        "*"
+      ],
+      "tool": {
+        "type": "mantle:tag",
+        "tag": "tconstruct:modifiable/armor"
+      },
+      "percent": true,
+      "variables": {
+        "height": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:height",
+          "fallback": 0.0
+        }
+      }
+    },
+    {
+      "type": "tconstruct:stat_boost",
+      "each_level": 0.05,
+      "operation": "add",
+      "stat": "tconstruct:knockback_resistance",
+      "tool": {
+        "type": "mantle:tag",
+        "tag": "tconstruct:modifiable/armor"
+      }
+    },
+    {
+      "type": "tconstruct:conditional_power",
+      "formula": [
+        64,
+        "$height",
+        "-",
+        "non-negative",
+        64,
+        "/",
+        "$level",
+        "*",
+        0.5,
+        "*"
+      ],
+      "percent": false,
+      "variables": {
+        "height": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:height",
+          "fallback": 0.0,
+          "which": "target"
+        }
+      }
+    }
+  ],
+  "tooltip_display": "always"
+}

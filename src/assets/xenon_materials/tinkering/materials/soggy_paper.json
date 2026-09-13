@@ -1,0 +1,53 @@
+{
+  "fallbacks": [ "primitive" ],
+  "color": "E9EAEB",
+  "generator": {
+    "transformer": {
+      "type": "tconstruct:grey_to_sprite",
+        "palette": [
+        {
+          "color": "FF000000",
+          "grey": 0
+        },
+        {
+          "color": "FFC8C8C8",
+          "grey": 63,
+          "path": "xenon_materials:generator/soggy_paper_border"
+        },
+        {
+          "grey": 102,
+          "path": "xenon_materials:generator/soggy_paper_border"
+        },
+        {
+          "color": "FFE1E1E1",
+          "grey": 140,
+          "path": "xenon_materials:generator/soggy_paper_base"
+        },
+        {
+          "grey": 178,
+          "path": "xenon_materials:generator/soggy_paper_base"
+        },
+        {
+          "color": "FFE1E1E1",
+          "grey": 216,
+          "path": "xenon_materials:generator/soggy_paper_highlight"
+        },
+        {
+          "grey": 255,
+          "path": "xenon_materials:generator/soggy_paper_highlight"
+        }
+      ]
+    },
+    "supportedStats": [
+      "tconstruct:head",
+      "tconstruct:handle",
+      "tconstruct:binding",
+      "tconstruct:repair_kit",
+      "tconstruct:limb",
+      "tconstruct:grip",
+      "tconstruct:maille",
+      "tconstruct:armor_maille"
+    ],
+    "ignoreMaterialStats": false
+  }
+}

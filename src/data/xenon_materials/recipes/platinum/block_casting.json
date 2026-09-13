@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "fluid": "xenon_materials:molten_platinum",
+    "amount": 810
+  },
+  "result": "xenon_materials:platinum_block",
+  "cooling_time": 220
+}

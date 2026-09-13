@@ -1,0 +1,19 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:damage_to_capacity",
+      "multiplier": {
+        "each_level": 0.05
+      },
+      "owner": "tconstruct:overslime",
+      "reduce_damage": true,
+      "source": {
+        "type": "mantle:tag",
+        "tag": "tconstruct:protection/magic"
+      }
+    }
+  ],
+  "priority": 175,
+  "tooltip_display": "always"
+}

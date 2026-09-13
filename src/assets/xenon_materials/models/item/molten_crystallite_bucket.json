@@ -1,0 +1,5 @@
+{
+    "parent": "forge:item/bucket_drip",
+    "loader": "tconstruct:fluid_container",
+    "fluid": "xenon_materials:molten_crystallite"
+}

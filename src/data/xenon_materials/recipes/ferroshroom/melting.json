@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "xenon_materials:ferroshroom",
+  "temperature": 800,
+  "result": {
+    "fluid": "tconstruct:molten_iron",
+    "amount": 90
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "text": "Not sure the applications of molten platinum slowing your enemies' mining speed, but you can probably figure one out.",
+  "entity": [
+    "4.0 Fire Damage",
+    "10 seconds Mining Fatigue"
+  ],
+  "block": [
+    "Lingering cloud with 10 seconds Mining Fatigue"
+  ]
+}

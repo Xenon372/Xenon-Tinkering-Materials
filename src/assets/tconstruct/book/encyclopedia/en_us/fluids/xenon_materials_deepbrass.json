@@ -1,0 +1,10 @@
+{
+  "text": "Molten deepbrass is great for impairing your enemies' vision.",
+  "entity": [
+    "3.0 Cold Damage",
+    "10 seconds Blindness"
+  ],
+  "block": [
+    "Lingering cloud with 10 seconds Blindness"
+  ]
+}

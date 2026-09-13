@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "fluid": "xenon_materials:molten_vermillium",
+    "amount": 810
+  },
+  "result": "xenon_materials:vermillium_block",
+  "cooling_time": 180
+}

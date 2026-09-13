@@ -1,0 +1,45 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:attribute",
+      "attribute": "minecraft:generic.movement_speed",
+      "each_level": 0.05,
+      "operation": "multiply_total",
+      "slots": [
+        "mainhand",
+        "offhand",
+        "feet",
+        "legs",
+        "chest",
+        "head"
+      ]
+    },
+    {
+      "type": "tconstruct:attribute",
+      "attribute": "tconstruct:generic.safe_fall_distance",
+      "each_level": 0.5,
+      "operation": "addition",
+      "slots": [
+        "mainhand",
+        "offhand",
+        "feet",
+        "legs",
+        "chest",
+        "head"
+      ],
+      "tooltip_style": "none"
+    },
+    {
+      "type": "tconstruct:attribute",
+      "attribute": "tconstruct:player.jump_count",
+      "flat": 1.0,
+      "operation": "addition",
+      "slots": [
+        "feet"
+      ],
+      "tooltip_style": "none"
+    }
+  ],
+  "tooltip_display": "always"
+}

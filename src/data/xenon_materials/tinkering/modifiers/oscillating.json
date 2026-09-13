@@ -1,0 +1,56 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:conditional_melee_damage",
+      "formula": [
+        "$armor",
+        "ceil",
+		0.08,
+        "*",
+        "$level",
+        "*",
+		1.0,
+        "+",
+        "$damage",
+        "*"
+      ],
+      "percent": true,
+      "require_effective": true,
+      "variables": {
+        "armor": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:armor_coverage",
+          "fallback": 1.0,
+          "which": "target"
+        }
+      },
+      "tool": {
+        "type": "mantle:tag",
+        "tag": "tconstruct:modifiable/melee"
+      }
+    },
+    {
+      "type": "tconstruct:conditional_mining_speed",
+      "formula": [
+        "$hardness",
+        5.0,
+		"/",
+        "$level",
+        "*",
+        "$speed",
+        "+"
+      ],
+      "percent": false,
+      "require_effective": true,
+      "variables": {
+        "hardness": {
+          "type": "tconstruct:block",
+          "block_type": "tconstruct:hardness",
+          "fallback": 50.0
+        }
+      }
+    }
+  ],
+  "tooltip_display": "always"
+}

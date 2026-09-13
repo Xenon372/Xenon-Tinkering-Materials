@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "xenon_materials:pykrete_bar"
+  },
+  "material": "xenon_materials:pykrete",
+  "needed": 1,
+  "value": 1
+}

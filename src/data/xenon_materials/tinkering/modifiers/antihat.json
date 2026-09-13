@@ -1,0 +1,44 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:trait",
+      "fixed_level": false,
+      "level": 1,
+      "name": "xenon_materials:helmbreaker"
+    },
+    {
+      "type": "tconstruct:conditional_melee_damage",
+      "formula": [
+        0.05,
+        "$level",
+        "*",
+		1,
+		"+",
+        "$damage",
+        "*"
+      ],
+      "percent": true,
+      "target": {
+        "type": "mantle:tag",
+        "tag": "xenon_materials:hat_wearers"
+      }
+    },
+    {
+      "type": "tconstruct:conditional_power",
+      "formula": [
+        0.72,
+        "$level",
+        "*",
+        "$damage",
+        "+"
+      ],
+      "percent": false,
+      "target": {
+        "type": "mantle:tag",
+        "tag": "xenon_materials:hat_wearers"
+      }
+    }
+  ],
+  "tooltip_display": "always"
+}

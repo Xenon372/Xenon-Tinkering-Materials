@@ -1,0 +1,13 @@
+{
+  "camera": "xenon_materials:fluid/molten_brimsteel/camera",
+  "camera_opacity": 0.1,
+  "color": "FFFFFFFF",
+  "flowing": "xenon_materials:fluid/molten_brimsteel/flowing",
+  "fog": {
+    "color": "A11213",
+    "end": 2.0,
+    "shape": "sphere",
+    "start": 0.25
+  },
+  "still": "xenon_materials:fluid/molten_brimsteel/still"
+}

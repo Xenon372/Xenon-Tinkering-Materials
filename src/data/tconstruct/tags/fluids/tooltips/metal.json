@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "xenon_materials:molten_verdant_steel",
+    "xenon_materials:molten_verdant_steel_flowing",
+    "xenon_materials:molten_neutralite",
+    "xenon_materials:molten_neutralite_flowing",
+    "xenon_materials:molten_vermillium",
+    "xenon_materials:molten_vermillium_flowing",
+    "xenon_materials:molten_midnight_bronze",
+    "xenon_materials:molten_midnight_bronze_flowing",
+    "xenon_materials:molten_midday_bronze",
+    "xenon_materials:molten_midday_bronze_flowing",
+    "xenon_materials:molten_grimslime",
+    "xenon_materials:molten_grimslime_flowing",
+    "xenon_materials:molten_bluehat",
+    "xenon_materials:molten_bluehat_flowing",
+    "xenon_materials:molten_platinum",
+    "xenon_materials:molten_platinum_flowing",
+    "xenon_materials:molten_platinum_gold",
+    "xenon_materials:molten_platinum_gold_flowing",
+    "xenon_materials:molten_deepbrass",
+    "xenon_materials:molten_deepbrass_flowing",
+    "xenon_materials:molten_brimsteel",
+    "xenon_materials:molten_brimsteel_flowing"
+  ]
+}

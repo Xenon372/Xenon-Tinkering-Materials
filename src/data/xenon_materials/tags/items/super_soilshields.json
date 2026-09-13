@@ -1,0 +1,14 @@
+{
+  "values": [
+    "minecraft:mycelium",
+    "minecraft:mud",
+    {
+      "id": "farmersdelight:organic_compost",
+      "required": false
+    },
+    {
+      "id": "farmersdelight:rich_soil",
+      "required": false
+    }
+  ]
+}

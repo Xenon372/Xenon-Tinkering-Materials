@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": { "item": "xenon_materials:vermillium_block" },
+  "result": {
+    "fluid": "xenon_materials:molten_vermillium",
+    "amount": 810
+  },
+  "temperature": 917,
+  "time": 200
+}

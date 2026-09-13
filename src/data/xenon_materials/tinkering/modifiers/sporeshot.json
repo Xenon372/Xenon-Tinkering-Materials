@@ -1,0 +1,20 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:material_variant_color",
+      "material": "xenon_materials:fungal"
+    },
+    {
+      "type": "tconstruct:weapon_mob_effect",
+      "effect": "minecraft:poison",
+      "level": {
+        "per_level": 1.0
+      },
+      "time": {
+        "flat": 100.0
+      }
+    }
+  ],
+  "tooltip_display": "always"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "xenon_materials:verdant_steel",
+  "temperature": 978,
+  "result": {
+    "fluid": "xenon_materials:molten_verdant_steel",
+    "amount": 90
+  }
+}

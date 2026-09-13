@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": { "item": "xenon_materials:pykrete_bar" },
+  "result": {
+    "fluid": "minecraft:water",
+    "amount": 250
+  },
+  "temperature": 15,
+  "time": 40
+}

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "xenon_materials:fungal",
+  "temperature": 115,
+  "result": {
+    "tag": "forge:mushroom_stew",
+    "amount": 250
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:loot_to_capacity",
+      "amount": 3,
+      "chance": {
+        "each_level": 0.2
+      },
+      "owner": "tconstruct:overslime",
+      "consume": {
+        "tag": "xenon_materials:overreap_shields"
+      }
+    }
+  ],
+  "priority": 175,
+  "tooltip_display": "always"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "xenon_materials:soggy_paper"
+  },
+  "material": "xenon_materials:soggy_paper",
+  "needed": 2,
+  "value": 1
+}

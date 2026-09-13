@@ -1,0 +1,11 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": { "tag": "tconstruct:casts/single_use/ingot" },
+  "cast_consumed": true,
+  "fluid": {
+    "fluid": "xenon_materials:molten_brimsteel",
+    "amount": 90
+  },
+  "result": "xenon_materials:brimsteel_ingot",
+  "cooling_time": 80
+}

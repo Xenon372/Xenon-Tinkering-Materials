@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "xenon_materials:pykrete",
+  "temperature": 15,
+  "result": {
+    "fluid": "minecraft:water",
+    "amount": 250
+  }
+}

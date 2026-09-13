@@ -1,0 +1,10 @@
+{
+  "text": "Molten neutralite is so neutral that it'll make you sick with boredom.",
+  "entity": [
+    "3.0 Fire Damage",
+    "5 seconds Nausea"
+  ],
+  "block": [
+    "Lingering cloud with 5 seconds Nausea"
+  ]
+}

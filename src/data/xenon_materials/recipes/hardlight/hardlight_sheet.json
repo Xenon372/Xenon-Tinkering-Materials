@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "item": "minecraft:nether_star"
+  },
+  "cast_consumed": false,
+  "cooling_time": 12,
+  "fluid": {
+    "amount": 200,
+    "fluid": "tconstruct:molten_quartz"
+  },
+  "result": "xenon_materials:hardlight_sheet"
+}

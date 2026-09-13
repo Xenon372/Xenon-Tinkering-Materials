@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": { "item": "xenon_materials:grimslime_ingot" },
+  "result": {
+    "fluid": "xenon_materials:molten_grimslime",
+    "amount": 90
+  },
+  "temperature": 1129,
+  "time": 64
+}

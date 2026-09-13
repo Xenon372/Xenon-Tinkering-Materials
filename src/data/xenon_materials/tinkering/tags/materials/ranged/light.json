@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "xenon_materials:soggy_paper",
+    "xenon_materials:fungal",
+    "xenon_materials:midnight_bronze",
+    "xenon_materials:midday_bronze",
+    "xenon_materials:grimslime",
+    "xenon_materials:brimsteel",
+    "xenon_materials:hardlight"
+  ]
+}

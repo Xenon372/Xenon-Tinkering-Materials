@@ -1,0 +1,54 @@
+{
+  "fallbacks": [ "metal_contrast" ],
+  "color": "FF5987C8",
+  "luminosity": 10,
+  "generator": {
+    "transformer": {
+      "type": "tconstruct:animated_sprite",
+      "frames": 14,
+      "meta": "xenon_materials:generator/hardlight_frames",
+      "palette": [
+        {
+          "color": "FF000000",
+          "grey": 0
+        },
+        {
+          "color": "FFC8C8C8",
+          "grey": 63,
+          "path": "xenon_materials:generator/hardlight_border"
+        },
+        {
+          "grey": 102,
+          "path": "xenon_materials:generator/hardlight_border"
+        },
+        {
+          "color": "FFE1E1E1",
+          "grey": 140,
+          "path": "xenon_materials:generator/hardlight"
+        },
+        {
+          "grey": 178,
+          "path": "xenon_materials:generator/hardlight"
+        },
+        {
+          "color": "FFE1E1E1",
+          "grey": 216,
+          "path": "xenon_materials:generator/hardlight_highlight"
+        },
+        {
+          "grey": 255,
+          "path": "xenon_materials:generator/hardlight_highlight"
+        }
+      ]
+    },
+    "supported_stats": [
+      "tconstruct:head",
+      "tconstruct:handle",
+      "tconstruct:binding",
+      "tconstruct:repair_kit",
+      "tconstruct:limb",
+      "tconstruct:grip"
+    ],
+    "ignoreMaterialStats": false
+  }
+}

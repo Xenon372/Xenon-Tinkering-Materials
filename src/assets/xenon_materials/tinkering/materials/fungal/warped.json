@@ -1,0 +1,54 @@
+{
+  "fallbacks": [ "wood", "stick" ],
+  "color": "119B85",
+  "generator": {
+    "transformer": {
+      "type": "tconstruct:grey_to_sprite",
+      "palette": [
+        {
+          "color": "FF000000",
+          "grey": 0
+        },
+        {
+          "color": "FFC8C8C8",
+          "grey": 63,
+          "path": "xenon_materials:generator/warped_wart_border"
+        },
+        {
+          "grey": 102,
+          "path": "xenon_materials:generator/warped_wart_border"
+        },
+        {
+          "color": "FFE1E1E1",
+          "grey": 140,
+          "path": "xenon_materials:generator/warped_wart"
+        },
+        {
+          "grey": 178,
+          "path": "xenon_materials:generator/warped_wart"
+        },
+        {
+          "color": "FFE1E1E1",
+          "grey": 216,
+          "path": "xenon_materials:generator/warped_wart_highlight"
+        },
+        {
+          "grey": 255,
+          "path": "xenon_materials:generator/warped_wart_highlight"
+        }
+      ]
+    },
+    "supportedStats": [
+      "tconstruct:head",
+      "tconstruct:handle",
+      "tconstruct:binding",
+      "tconstruct:repair_kit",
+      "tconstruct:limb",
+      "tconstruct:grip",
+      "tconstruct:shield_core",
+      "tconstruct:maille",
+      "tconstruct:arrow_shaft"
+    ],
+    "ignoreMaterialStats": false
+  }
+}

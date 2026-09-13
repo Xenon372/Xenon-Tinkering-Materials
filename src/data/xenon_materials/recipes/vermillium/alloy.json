@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    { "tag": "tconstruct:molten_iron",     "amount":   180 },
+    { "tag": "tconstruct:magma",     "amount":   250 },
+    { "tag": "tconstruct:scorched_stone",   "amount":   250 }
+  ],
+  "result": {
+    "fluid": "xenon_materials:molten_vermillium",
+    "amount": 90
+  },
+  "temperature": 917
+}

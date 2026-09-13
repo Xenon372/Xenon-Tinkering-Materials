@@ -1,0 +1,22 @@
+{
+  "block_effects": [
+    {
+      "type": "tconstruct:conditional",
+      "block": {
+        "type": "tconstruct:harvest_tier",
+        "tier": "minecraft:diamond"
+      },
+      "effect": {
+        "type": "tconstruct:break_block",
+        "enchantments": {
+          "minecraft:fortune": 4
+        },
+        "hardness": 10.0
+      }
+    }
+  ],
+  "fluid": {
+    "amount": 25,
+    "tag": "xenon_materials:molten_crystallite"
+  }
+}

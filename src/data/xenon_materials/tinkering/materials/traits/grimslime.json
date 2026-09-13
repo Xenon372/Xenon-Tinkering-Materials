@@ -1,0 +1,16 @@
+{
+  "default": [
+      { "name": "xenon_materials:overreap", "level": 1 },
+      { "name": "tconstruct:overslime", "level": 1 }
+  ],
+  "perStat": {
+    "tconstruct:armor": [
+      { "name": "xenon_materials:overward", "level": 1 },
+      { "name": "tconstruct:overslime", "level": 1 }
+    ],
+    "tconstruct:ranged": [
+      { "name": "xenon_materials:overdraw", "level": 1 },
+      { "name": "tconstruct:overslime", "level": 1 }
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "default": [
+    { "name": "tconstruct:experienced", "level": 1 }
+  ],
+  "perStat": {
+    "joy_of_tinkering:bullet_casing": [
+      { "name": "tconstruct:experienced", "level": 1 }
+    ]
+  }
+}

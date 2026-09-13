@@ -1,0 +1,105 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:attribute",
+      "attribute": "minecraft:generic.attack_speed",
+      "formula": [
+		0.05,
+        "$level",
+        "*",
+        "floor",
+        "$durability",
+        3.0,
+        "floor",
+        "$durability",
+        3.0,
+		"/",
+		"*",
+		"-",
+		"*"
+      ],
+      "operation": "multiply_total",
+      "slots": [
+        "mainhand"
+      ],
+      "variables": {
+        "durability": "tconstruct:tool_lost_durability"
+      }
+    },
+    {
+      "type": "tconstruct:attribute",
+      "attribute": "minecraft:generic.movement_speed",
+      "formula": [
+		0.1,
+        "$level",
+        "*",
+        "floor",
+        "$durability",
+        3.0,
+        "floor",
+        "$durability",
+        3.0,
+		"/",
+		"*",
+		"-",
+		"*"
+      ],
+      "operation": "multiply_total",
+      "slots": [
+        "mainhand"
+      ],
+      "variables": {
+        "durability": "tconstruct:tool_lost_durability"
+      }
+    },
+    {
+      "type": "tconstruct:conditional_stat",
+      "stat": "tconstruct:draw_speed",
+      "formula": [
+		0.05,
+        "$level",
+        "*",
+        "floor",
+        "$durability",
+        3.0,
+        "floor",
+        "$durability",
+        3.0,
+		"/",
+		"*",
+		"-",
+		"*",
+		"$value",
+		"+"
+      ],
+      "variables": {
+        "durability": "tconstruct:tool_lost_durability"
+      }
+    },
+    {
+      "type": "tconstruct:conditional_melee_damage",
+      "formula": [
+		0.1,
+        "$level",
+        "*",
+        "floor",
+        "$durability",
+        3.0,
+        "floor",
+        "$durability",
+        3.0,
+		"/",
+		"*",
+		"-",
+		"*",
+		"$damage",
+		"+"
+      ],
+      "variables": {
+        "durability": "tconstruct:tool_lost_durability"
+      }
+    }
+  ],
+  "tooltip_display": "always"
+}

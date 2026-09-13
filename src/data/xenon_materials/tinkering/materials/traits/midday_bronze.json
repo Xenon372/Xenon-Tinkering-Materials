@@ -1,0 +1,13 @@
+{
+  "default": [
+    { "name": "xenon_materials:diurnal", "level": 1 }
+  ],
+  "perStat": {
+    "tconstruct:ranged": [
+      { "name": "tconstruct:maintained", "level": 1 }
+    ],
+    "tconstruct:armor": [
+      { "name": "tconstruct:maintained", "level": 1 }
+    ]
+  }
+}

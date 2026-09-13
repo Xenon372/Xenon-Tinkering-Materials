@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": { "item": "xenon_materials:hardlight_sheet" },
+  "result": {
+    "fluid": "tconstruct:molten_quartz",
+    "amount": 200
+  },
+  "temperature": 792,
+  "time": 80
+}

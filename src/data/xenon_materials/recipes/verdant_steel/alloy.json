@@ -1,0 +1,12 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    { "tag": "tconstruct:molten_steel",     "amount":   90 },
+    { "tag": "tconstruct:molten_emerald",   "amount":   300 }
+  ],
+  "result": {
+    "fluid": "xenon_materials:molten_verdant_steel",
+    "amount": 90
+  },
+  "temperature": 978
+}

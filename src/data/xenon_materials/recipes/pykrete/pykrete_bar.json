@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "item": "xenon_materials:soggy_paper"
+  },
+  "cast_consumed": true,
+  "cooling_time": 12,
+  "fluid": {
+    "amount": 250,
+    "fluid": "tconstruct:powdered_snow"
+  },
+  "result": "xenon_materials:pykrete_bar"
+}

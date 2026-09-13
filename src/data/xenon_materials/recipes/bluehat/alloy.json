@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:alloy",
+  "inputs": [
+    { "tag": "tconstruct:molten_cobalt",     "amount":   90 },
+    { "tag": "tconstruct:sky_slime",     "amount":   250 },
+    { "fluid": "minecraft:water",   "amount":   1000 }
+  ],
+  "result": {
+    "fluid": "xenon_materials:molten_bluehat",
+    "amount": 90
+  },
+  "temperature": 372
+}

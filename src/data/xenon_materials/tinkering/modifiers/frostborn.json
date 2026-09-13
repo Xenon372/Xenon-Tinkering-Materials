@@ -1,0 +1,80 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:conditional_melee_damage",
+      "formula": [
+        1.0,
+        "$temperature",
+        "-",
+        "non-negative",
+        "$level",
+        "*",
+        "$damage",
+        "+"
+      ],
+      "tool": {
+        "type": "mantle:tag",
+        "tag": "tconstruct:modifiable/melee"
+      },
+      "percent": false,
+      "variables": {
+        "temperature": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:biome_temperature",
+          "fallback": 2.0,
+          "which": "attacker"
+        }
+      }
+    },
+    {
+      "type": "tconstruct:conditional_stat",
+      "formula": [
+        0.75,
+        "$temperature",
+        "-",
+        0.6,
+        "*",
+        "$level",
+        "*",
+        "$multiplier",
+        "*",
+        "$value",
+        "+"
+      ],
+      "percent": false,
+      "stat": "tconstruct:projectile_damage",
+      "variables": {
+        "temperature": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:biome_temperature",
+          "fallback": 2.0
+        }
+      }
+    },
+    {
+      "type": "tconstruct:protection",
+      "damage_source": "mantle:can_protect",
+      "formula": [
+        0.75,
+        "$temperature",
+        "-",
+        "$protection",
+        "+"
+      ],
+      "tool": {
+        "type": "mantle:tag",
+        "tag": "tconstruct:modifiable/armor"
+      },
+      "variables": {
+        "temperature": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:biome_temperature",
+          "fallback": 2.0,
+          "which": "target"
+        }
+      }
+    }
+  ],
+  "tooltip_display": "always"
+}

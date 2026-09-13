@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "fluid": "xenon_materials:molten_neutralite",
+    "amount": 90
+  },
+  "temperature": 796,
+  "output": "xenon_materials:neutralite"
+}

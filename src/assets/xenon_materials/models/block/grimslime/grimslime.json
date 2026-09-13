@@ -1,0 +1,24 @@
+{
+  "loader": "forge:composite",
+    "parent": "block/block",
+    "textures": {
+        "particle":   "xenon_materials:block/grimslime_block"
+    },
+  "children": {
+    "metal": {
+      "render_type": "minecraft:solid",
+      "parent": "tconstruct:block/template/cube_all_14",
+      "textures": {
+        "all": "xenon_materials:block/grimslime_steel"
+      }
+    },
+    "slime": {
+      "render_type": "minecraft:translucent",
+      "parent": "block/cube_all",
+      "textures": {
+        "all": "xenon_materials:block/grimslime_slime"
+      }
+    }
+  }
+}
+

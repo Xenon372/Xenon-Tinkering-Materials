@@ -1,0 +1,9 @@
+{
+  "type": "plain",
+  "map_color": "color_gray",
+  "requires_tool_for_drops": true,
+  "explosion_resistance": 1200,
+  "destroy_time": 10,
+  "sound_type": "minecraft:netherite_block",
+  "item": {}  
+}

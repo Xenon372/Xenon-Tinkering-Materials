@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": { "item": "xenon_materials:bluehat_ingot" },
+  "result": {
+    "fluid": "xenon_materials:molten_bluehat",
+    "amount": 90
+  },
+  "temperature": 372,
+  "time": 72
+}

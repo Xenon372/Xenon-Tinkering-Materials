@@ -1,0 +1,13 @@
+{
+  "default": [
+    { "name": "xenon_materials:antihat", "level": 1 }
+  ],
+  "perStat": {
+    "tconstruct:armor": [
+      { "name": "xenon_materials:platformer", "level": 1 }
+    ],
+    "joy_of_tinkering:bullet_casing": [
+      { "name": "xenon_materials:antihat", "level": 1 }
+    ]
+  }
+}

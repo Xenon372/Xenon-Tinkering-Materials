@@ -1,0 +1,17 @@
+{
+  "loader": "tconstruct:tool",
+  "parent": "forge:item/default",
+  "textures": {
+    "hardlight":   "xenon_materials:item/hardlight_arrow"
+  },
+  "parts": [
+    { "name": "hardlight" }
+  ],
+  "display": {
+    "tconstruct:thrown": {
+      "rotation": [ 0, 0, 90 ],
+      "scale": [ 1, 1, 1 ],
+      "translation": [ 2, -2, 0 ]
+    }
+  }
+}

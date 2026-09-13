@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:casting_basin",
+  "fluid": {
+    "fluid": "xenon_materials:molten_neutralite",
+    "amount": 810
+  },
+  "result": "xenon_materials:neutralite_block",
+  "cooling_time": 160
+}

@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "xenon_materials:pykrete",
+    "xenon_materials:platinum_gold",
+    "xenon_materials:deepbrass"
+  ]
+}

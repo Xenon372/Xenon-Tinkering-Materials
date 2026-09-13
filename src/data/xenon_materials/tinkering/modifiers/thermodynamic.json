@@ -1,0 +1,78 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:conditional_mining_speed",
+      "formula": [
+        "$bonus",
+        "$level",
+        "*",
+        1,
+        "+",
+        "$speed",
+        "*"
+      ],
+      "percent": true,
+      "require_effective": true,
+      "variables": {
+        "bonus": {
+          "type": "tconstruct:entity",
+          "condition_type": "mantle:on_fire",
+          "entity_type": "tconstruct:conditional",
+          "fallback": 0.2,
+          "if_false": 0.0,
+          "if_true": 0.2
+        }
+      }
+    },
+    {
+      "type": "tconstruct:conditional_stat",
+      "formula": [
+        "$bonus",
+        "$level",
+        "*",
+        1,
+        "+",
+        "$value",
+        "*"
+      ],
+      "percent": false,
+	  "stat": "tconstruct:accuracy",
+      "variables": {
+        "bonus": {
+          "type": "tconstruct:entity",
+          "condition_type": "mantle:on_fire",
+          "entity_type": "tconstruct:conditional",
+          "fallback": 0.15,
+          "if_false": 0.0,
+          "if_true": 0.15
+        }
+      }
+    },
+    {
+      "type": "tconstruct:conditional_stat",
+      "formula": [
+        "$bonus",
+        "$level",
+        "*",
+        1,
+        "+",
+        "$value",
+        "*"
+      ],
+      "percent": false,
+	  "stat": "tconstruct:draw_speed",
+      "variables": {
+        "bonus": {
+          "type": "tconstruct:entity",
+          "condition_type": "mantle:on_fire",
+          "entity_type": "tconstruct:conditional",
+          "fallback": 0.2,
+          "if_false": 0.0,
+          "if_true": 0.2
+        }
+      }
+    }
+  ],
+  "tooltip_display": "always"
+}

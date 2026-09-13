@@ -1,0 +1,23 @@
+modLoader="lowcodefml"
+loaderVersion="*"
+issueTrackerURL="https://github.com/Xenon372/XenonMaterials/issues"
+license="MIT"
+[[mods]]
+    modId="xenon_materials"
+    version="1.0.0"
+    displayName="Xenon's Tinkering Materials"
+    description='''
+    A Thing Pack for Tinkers' Construct. Includes a handful of tool materials.
+    '''
+[[dependencies.xenon_materials]]
+    modId="tconstruct"
+    mandatory=true
+    versionRange="[3.12.0,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.xenon_materials]]
+    modId="jsonthings"
+    mandatory=true
+    versionRange="[0.9.9,)"
+    ordering="NONE"
+    side="BOTH"

@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "xenon_materials:bluehat",
+  "temperature": 372,
+  "result": {
+    "fluid": "xenon_materials:molten_bluehat",
+    "amount": 90
+  }
+}

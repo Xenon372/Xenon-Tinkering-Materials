@@ -1,0 +1,10 @@
+{
+  "type": "plain",
+  "map_color": "lapis",
+  "requires_tool_for_drops": true,
+  "explosion_resistance": 6,
+  "destroy_time": 6,
+  "sound_type": "minecraft:amethyst",
+  "not_solid": true,
+  "item": {}  
+}

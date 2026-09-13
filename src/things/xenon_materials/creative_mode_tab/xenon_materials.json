@@ -1,0 +1,58 @@
+{
+  "icon": "xenon_materials:verdant_steel_ingot",
+  "after": ["tconstruct:world"],
+  "translation_key": "itemGroup.xenon_materials.xenon_materials",
+  "items": [
+    "xenon_materials:verdant_steel_nugget",
+    "xenon_materials:verdant_steel_ingot",
+    "xenon_materials:verdant_steel_block",
+	
+    "xenon_materials:neutralite_nugget",
+    "xenon_materials:neutralite_ingot",
+    "xenon_materials:neutralite_block",
+	
+	"xenon_materials:vermillium_nugget",
+	"xenon_materials:vermillium_ingot",
+    "xenon_materials:vermillium_block",
+	
+	"xenon_materials:midnight_bronze_nugget",
+	"xenon_materials:midnight_bronze_ingot",
+    "xenon_materials:midnight_bronze_block",
+	
+	"xenon_materials:midday_bronze_nugget",
+	"xenon_materials:midday_bronze_ingot",
+    "xenon_materials:midday_bronze_block",
+	
+    "xenon_materials:soggy_paper",
+    "xenon_materials:pykrete_bar",
+	
+	"xenon_materials:grimslime_nugget",
+	"xenon_materials:grimslime_ingot",
+    "xenon_materials:grimslime_block",
+	
+	"xenon_materials:crystallite_gem",
+    "xenon_materials:crystallite_block",
+	
+	"xenon_materials:bluehat_nugget",
+	"xenon_materials:bluehat_ingot",
+    "xenon_materials:bluehat_block",
+	
+	"xenon_materials:platinum_nugget",
+	"xenon_materials:platinum_ingot",
+    "xenon_materials:platinum_block",
+	
+	"xenon_materials:platinum_gold_nugget",
+	"xenon_materials:platinum_gold_ingot",
+    "xenon_materials:platinum_gold_block",
+	
+	"xenon_materials:deepbrass_nugget",
+	"xenon_materials:deepbrass_ingot",
+    "xenon_materials:deepbrass_block",
+	
+	"xenon_materials:brimsteel_nugget",
+	"xenon_materials:brimsteel_ingot",
+    "xenon_materials:brimsteel_block",
+	
+    "xenon_materials:hardlight_sheet"
+  ]
+}

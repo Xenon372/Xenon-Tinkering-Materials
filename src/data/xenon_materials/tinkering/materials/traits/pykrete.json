@@ -1,0 +1,13 @@
+{
+  "default": [
+    { "name": "xenon_materials:frostborn", "level": 1 }
+  ],
+  "perStat": {
+    "tconstruct:ammo": [
+      { "name": "xenon_materials:frigid", "level": 1 }
+    ],
+    "joy_of_tinkering:bullet_casing": [
+      { "name": "xenon_materials:frigid", "level": 1 }
+    ]
+  }
+}

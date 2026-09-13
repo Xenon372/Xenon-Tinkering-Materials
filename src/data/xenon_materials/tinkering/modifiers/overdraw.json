@@ -1,0 +1,35 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:conditional_stat",
+      "formula": [
+        0.2,
+		"$overslime",
+		"$max",
+		"/",
+		"*",
+		"$level",
+		"*",
+		"$multiplier",
+		"*",
+        "$value",
+        "+"
+      ],
+      "percent": false,
+      "stat": "tconstruct:draw_speed",
+      "variables": {
+        "overslime": {
+          "type": "tconstruct:mod_data",
+          "key": "tconstruct:overslime",
+          "source": "persistent"
+        },
+        "max": {
+          "type": "tconstruct:tool_stat",
+          "stat": "tconstruct:overslime"
+        }
+      }
+    }
+  ],
+  "tooltip_display": "always"
+}

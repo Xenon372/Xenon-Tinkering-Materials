@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "amount": 250,
+    "tag": "mantle:water"
+  },
+  "input": "xenon_materials:hardlight",
+  "output": "xenon_materials:hardlight#liquid",
+  "temperature": 1
+}

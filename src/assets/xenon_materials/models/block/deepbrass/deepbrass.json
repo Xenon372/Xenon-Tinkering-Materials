@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all":   "xenon_materials:block/deepbrass_block"
+    }
+}

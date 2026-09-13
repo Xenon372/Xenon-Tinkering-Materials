@@ -1,0 +1,13 @@
+{
+  "default": [
+    { "name": "xenon_materials:bulwark", "level": 1 }
+  ],
+  "perStat": {
+    "tconstruct:armor": [
+      { "name": "xenon_materials:hearty_protection", "level": 1 }
+    ],
+    "joy_of_tinkering:bullet_casing": [
+      { "name": "xenon_materials:bulwark", "level": 1 }
+    ]
+  }
+}

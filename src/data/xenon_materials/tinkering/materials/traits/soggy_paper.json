@@ -1,0 +1,10 @@
+{
+  "default": [
+    { "name": "xenon_materials:flimsy", "level": 1 }
+  ],
+  "perStat": {
+    "joy_of_tinkering:propellant": [
+      { "name": "tconstruct:weak", "level": 1 }
+    ]
+  }
+}

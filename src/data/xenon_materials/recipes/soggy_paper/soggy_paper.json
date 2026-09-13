@@ -1,0 +1,13 @@
+{
+  "type": "tconstruct:casting_table",
+  "cast": {
+    "item": "minecraft:paper"
+  },
+  "cast_consumed": true,
+  "cooling_time": 12,
+  "fluid": {
+    "amount": 125,
+    "fluid": "minecraft:water"
+  },
+  "result": "xenon_materials:soggy_paper"
+}

@@ -1,0 +1,11 @@
+{
+  "text": "If you want to wreak havoc on the world, molten grimslime is the perfect fluid for you.",
+  "entity": [
+    "Power 3 explosion",
+    "Up to 4 Explosion Damage"
+  ],
+  "block": [
+    "Explosion breaks blocks",
+    "Explosion causes fires"
+  ]
+}

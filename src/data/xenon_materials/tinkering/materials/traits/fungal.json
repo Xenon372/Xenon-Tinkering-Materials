@@ -1,0 +1,17 @@
+{
+  "default": [
+    { "name": "xenon_materials:soilshield", "level": 1 },
+    { "name": "xenon_materials:earth_eater", "level": 1 }
+  ],
+  "perStat": {
+    "tconstruct:armor": [
+      { "name": "xenon_materials:sporeburst", "level": 1 }
+    ],
+    "tconstruct:ranged": [
+      { "name": "xenon_materials:sporeshot", "level": 1 }
+    ],
+    "tconstruct:ammo": [
+      { "name": "xenon_materials:sporeshot", "level": 1 }
+    ]
+  }
+}
