@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "xenon_materials:ferroshroom"
+  },
+  "material": "xenon_materials:ferroshroom",
+  "needed": 1,
+  "value": 1
+}

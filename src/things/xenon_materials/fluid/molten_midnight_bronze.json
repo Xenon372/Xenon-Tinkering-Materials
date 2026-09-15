@@ -9,14 +9,14 @@
   },
   "block": {
     "type": "tconstruct:burning_liquid",
-    "burn_time": 8,
+    "burn_time": 5,
     "damage": 2
   },
   "fluid_type": {
     "parent": "",
     "still_texture": "tconstruct:fluid/molten/shiny/still",
     "flowing_texture": "tconstruct:fluid/molten/shiny/flowing",
-    "color": [93,41,119],
+    "color": [255,255,255],
     "density": 2000,
     "luminosity": 6,
     "temperature": 1550,

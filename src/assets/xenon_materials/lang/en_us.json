@@ -215,11 +215,16 @@
   "modifier.xenon_materials.overdraw.flavor": "Not great for your credit score",
   "modifier.xenon_materials.overdraw.description": "Boosts drawspeed based on remaining overslime",
   "modifier.xenon_materials.overdraw.draw_speed": "Overdraw Speed",
-  
+
+  "__comment": "Ferroshroom item texture was created by user @thewayitwasintended on Discord",
+  "item.xenon_materials.ferroshroom": "Ferroshroom",
+
   "material.xenon_materials.ferroshroom": "Ferroshroom",
   "material.xenon_materials.ferroshroom.flavor": "Marvelously mesmerizing metallic mushroom material",
   "material.xenon_materials.ferroshroom.encyclopedia": "When losing 1 durability, tool loses 1 extra durability (bypassing modifiers) to share durability with a random tool in the hotbar or offhand. Target gains 1 barkskin plus 1 per level.",
-  
+
+  "__comment": "Aurucelium is a portmanteau of Aurum (gold in Latin) and Mycelium, the name was given by user @absorbingsafe11 on Discord",
+  "item.xenon_materials.aurucelium": "Aurucelium",
   "material.xenon_materials.aurucelium": "Aurucelium",
   "material.xenon_materials.aurucelium.flavor": "Magnificently muggy metallic mycelium material",
   "material.xenon_materials.aurucelium.encyclopedia": "Grants up to +1.25 damage per level in hot temperatures, but loses up to -1.25 damage per level in cold biomes",

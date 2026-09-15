@@ -14,9 +14,9 @@
   },
   "fluid_type": {
     "parent": "",
-    "still_texture": "tconstruct:fluid/molten/shiny/still",
-    "flowing_texture": "tconstruct:fluid/molten/shiny/flowing",
-    "color": [166,215,221],
+    "still_texture": "xenon_materials:fluid/platinum/still",
+    "flowing_texture": "xenon_materials:fluid/platinum/flowing",
+    "color": [255,255,255],
     "density": 2000,
     "luminosity": 6,
     "temperature": 1550,

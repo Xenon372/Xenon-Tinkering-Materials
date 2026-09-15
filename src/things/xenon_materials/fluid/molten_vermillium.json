@@ -9,7 +9,7 @@
   },
   "block": {
     "type": "tconstruct:burning_liquid",
-    "burn_time": 8,
+    "burn_time": 5,
     "damage": 2
   },
   "fluid_type": {

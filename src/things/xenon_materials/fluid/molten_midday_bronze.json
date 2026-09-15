@@ -16,7 +16,7 @@
     "parent": "",
     "still_texture": "tconstruct:fluid/molten/shiny/still",
     "flowing_texture": "tconstruct:fluid/molten/shiny/flowing",
-    "color": [225,138,30],
+    "color": [255,255,255],
     "density": 2000,
     "luminosity": 6,
     "temperature": 1550,

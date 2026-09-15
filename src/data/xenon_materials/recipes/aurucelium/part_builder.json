@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "xenon_materials:aurucelium"
+  },
+  "material": "xenon_materials:aurucelium",
+  "needed": 1,
+  "value": 1
+}

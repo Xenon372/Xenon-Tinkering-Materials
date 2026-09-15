@@ -12,29 +12,29 @@
         {
           "color": "FFC8C8C8",
           "grey": 63,
-          "path": "xenon_materials:generator/orange_wart_border"
+          "path": "xenon_materials:generator/aurucelium_border"
         },
         {
           "grey": 102,
-          "path": "xenon_materials:generator/orange_wart_border"
+          "path": "xenon_materials:generator/aurucelium_border"
         },
         {
           "color": "FFE1E1E1",
           "grey": 140,
-          "path": "xenon_materials:generator/orange_wart"
+          "path": "xenon_materials:generator/aurucelium"
         },
         {
           "grey": 178,
-          "path": "xenon_materials:generator/orange_wart"
+          "path": "xenon_materials:generator/aurucelium"
         },
         {
           "color": "FFE1E1E1",
           "grey": 216,
-          "path": "xenon_materials:generator/orange_wart_highlight"
+          "path": "xenon_materials:generator/aurucelium_highlight"
         },
         {
           "grey": 255,
-          "path": "xenon_materials:generator/orange_wart_highlight"
+          "path": "xenon_materials:generator/aurucelium_highlight"
         }
       ]
     },
