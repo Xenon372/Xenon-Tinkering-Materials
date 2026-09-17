@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "xenon_materials:firelight_silk"
+  },
+  "material": "xenon_materials:firelight_silk",
+  "needed": 1,
+  "value": 1
+}

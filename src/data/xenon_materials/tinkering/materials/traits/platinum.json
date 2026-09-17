@@ -1,7 +1,7 @@
 {
   "perStat": {
     "tconstruct:melee_harvest": [
-      { "name": "tconstruct:lustrous", "level": 2 }
+      { "name": "tconstruct:lustrous", "level": 1 }
     ],
     "tconstruct:ranged": [
       { "name": "tconstruct:olympic", "level": 1 }

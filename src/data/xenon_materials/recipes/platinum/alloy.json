@@ -2,8 +2,8 @@
   "type": "tconstruct:alloy",
   "inputs": [
     { "tag": "tconstruct:molten_debris",     "amount":   90 },
-    { "tag": "tconstruct:venom",     "amount":   250 },
-    { "tag": "tconstruct:blazing_blood",   "amount":   100 }
+    { "tag": "tconstruct:blazing_blood",   "amount":   100 },
+    { "tag": "tconstruct:venom",     "amount":   250 }
   ],
   "result": {
     "fluid": "xenon_materials:molten_platinum",

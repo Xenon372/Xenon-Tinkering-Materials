@@ -1,0 +1,10 @@
+{
+  "default": [
+      { "name": "tconstruct:autosmelt", "level": 1 }
+  ],
+  "perStat": {
+    "tconstruct:armor": [
+      { "name": "tconstruct:tempered_protection", "level": 1 }
+    ]
+  }
+}

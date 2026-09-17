@@ -2,6 +2,7 @@
   "type": "tconstruct:alloy",
   "inputs": [
     { "tag": "tconstruct:molten_steel",     "amount":   90 },
+    { "tag": "tconstruct:molten_quartz",    "amount":   100 },
     { "tag": "tconstruct:molten_emerald",   "amount":   300 }
   ],
   "result": {

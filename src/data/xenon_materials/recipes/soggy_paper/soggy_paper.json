@@ -6,7 +6,7 @@
   "cast_consumed": true,
   "cooling_time": 12,
   "fluid": {
-    "amount": 125,
+    "amount": 250,
     "fluid": "minecraft:water"
   },
   "result": "xenon_materials:soggy_paper"

@@ -14,8 +14,8 @@
   },
   "fluid_type": {
     "parent": "",
-    "still_texture": "tconstruct:fluid/molten/shiny/still",
-    "flowing_texture": "tconstruct:fluid/molten/shiny/flowing",
+    "still_texture": "xenon_materials:fluid/midday_bronze/still",
+    "flowing_texture": "xenon_materials:fluid/midday_bronze/flowing",
     "color": [255,255,255],
     "density": 2000,
     "luminosity": 6,
