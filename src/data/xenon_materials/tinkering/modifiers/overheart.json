@@ -1,0 +1,47 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:attribute",
+      "attribute": "minecraft:generic.max_health",
+      "formula": [
+        "$overslime",
+        150,
+        "/",
+        "floor",
+        "$level",
+        "*",
+        "$level",
+        "max"
+      ],
+      "operation": "addition",
+      "slots": [
+        "mainhand",
+        "offhand",
+        "feet",
+        "legs",
+        "chest",
+        "head"
+      ],
+      "tooltip_style": "boost",
+      "variables": {
+        "overslime": {
+          "type": "tconstruct:tool_stat",
+          "stat": "tconstruct:overslime"
+        }
+      }
+    },
+    {
+      "type": "tconstruct:update_health",
+      "slots": [
+        "mainhand",
+        "offhand",
+        "feet",
+        "legs",
+        "chest",
+        "head"
+      ]
+    }
+  ],
+  "tooltip_display": "always"
+}

@@ -4,6 +4,6 @@
   "requires_tool_for_drops": true,
   "explosion_resistance": 6,
   "destroy_time": 6,
-  "sound_type": "minecraft:copper",
+  "sound_type": "minecraft:metal",
   "item": {}  
 }

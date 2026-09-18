@@ -1,5 +1,5 @@
 {
-  "fallbacks": [ "metal" ],
+  "fallbacks": [ "hat_metal", "metal" ],
   "color": "3BC3FE",
   "generator": {
     "transformer": {
@@ -9,11 +9,11 @@
         "palette": [
           { "grey": 0,   "color": "FF000000" },
           { "grey": 63,  "color": "FF005384" },
-          { "grey": 102, "color": "FF007BAF" },
-          { "grey": 140, "color": "FF159DD7" },
-          { "grey": 178, "color": "FF2FB6F0" },
-          { "grey": 216, "color": "FF3BC3FE" },
-          { "grey": 255, "color": "FFBCEEFF" }
+          { "grey": 102, "color": "FF146798" },
+          { "grey": 140, "color": "FF388BBC" },
+          { "grey": 178, "color": "FF58ADBC" },
+          { "grey": 216, "color": "FF7BCEFF" },
+          { "grey": 255, "color": "FFC7FFFF" }
         ]
       }
     },

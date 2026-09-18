@@ -1,5 +1,5 @@
 {
-  "fallbacks": [ "metal" ],
+  "fallbacks": [ "circadian_metal", "metal" ],
   "color": "6A4C79",
   "generator": {
     "transformer": {

@@ -1,9 +1,0 @@
-{
-  "type": "tconstruct:material_melting",
-  "input": "xenon_materials:crystallite",
-  "temperature": 1231,
-  "result": {
-    "fluid": "xenon_materials:molten_crystallite",
-    "amount": 100
-  }
-}

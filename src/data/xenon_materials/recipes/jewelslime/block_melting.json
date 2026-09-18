@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": { "item": "xenon_materials:jewelslime_block" },
+  "result": {
+    "fluid": "xenon_materials:molten_jewelslime",
+    "amount": 900
+  },
+  "temperature": 1231,
+  "time": 450
+}

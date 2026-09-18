@@ -2,9 +2,10 @@
   "replace": false,
   "values": [
     "xenon_materials:grimslime",
-    "xenon_materials:crystallite",
+    "xenon_materials:jewelslime",
     "xenon_materials:platinum",
     "xenon_materials:platinum_gold",
-    "xenon_materials:brimsteel"
+    "xenon_materials:brimsteel",
+    "xenon_materials:firelight_silk"
   ]
 }

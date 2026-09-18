@@ -1,9 +1,9 @@
 {
   "loader": "forge:composite",
-    "parent": "block/block",
-    "textures": {
-        "particle":   "xenon_materials:block/grimslime_block"
-    },
+  "parent": "block/block",
+  "textures": {
+    "particle": "xenon_materials:block/grimslime_block"
+  },
   "children": {
     "metal": {
       "render_type": "minecraft:solid",
@@ -21,4 +21,3 @@
     }
   }
 }
-

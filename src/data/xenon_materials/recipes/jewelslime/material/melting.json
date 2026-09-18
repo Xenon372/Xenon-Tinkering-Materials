@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "xenon_materials:jewelslime",
+  "temperature": 1231,
+  "result": {
+    "fluid": "xenon_materials:molten_jewelslime",
+    "amount": 100
+  }
+}
