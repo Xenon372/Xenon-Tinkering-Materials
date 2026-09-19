@@ -14,8 +14,8 @@
 
   "material.xenon_materials.verdant_steel": "Verdant Steel",
   "material.xenon_materials.verdant_steel.flavor": "Talk about a green metal",
-  "material.xenon_materials.verdant_steel.encyclopedia": "Grants +50% XP per level from blocks and monsters",
-  "material.xenon_materials.verdant_steel.encyclopedia.ranged": "Grants +50% XP per level from monsters killed by arrows",
+  "material.xenon_materials.verdant_steel.encyclopedia": "Grants +50% XP per level from blocks and monsters.",
+  "material.xenon_materials.verdant_steel.encyclopedia.ranged": "Grants +50% XP per level from monsters killed by arrows.",
   
   "block.xenon_materials.neutralite_block": "Neutralite Block",
   "item.xenon_materials.neutralite_ingot": "Neutralite Ingot",
@@ -30,9 +30,9 @@
 
   "material.xenon_materials.neutralite": "Neutralite",
   "material.xenon_materials.neutralite.flavor": "True neutral alignment",
-  "material.xenon_materials.neutralite.encyclopedia": "Grants +1.6 damage in biomes with neutral temperatures",
-  "material.xenon_materials.neutralite.encyclopedia.ranged": "Grants +0.15 accuracy in biomes with neutral temperatures",
-  "material.xenon_materials.neutralite.encyclopedia.armor": "Reduces damage by 5% per level in biomes with neutral temperatures",
+  "material.xenon_materials.neutralite.encyclopedia": "Grants +1.6 damage in biomes with neutral temperatures.",
+  "material.xenon_materials.neutralite.encyclopedia.ranged": "Grants +0.15 accuracy in biomes with neutral temperatures.",
+  "material.xenon_materials.neutralite.encyclopedia.armor": "Reduces damage by 5% per level in biomes with neutral temperatures.",
   
   "block.xenon_materials.vermillium_block": "Vermillium Block",
   "item.xenon_materials.vermillium_ingot": "Vermillium Ingot",
@@ -76,7 +76,7 @@
   "item.xenon_materials.pykrete_bar": "Pykrete Bar",
   "material.xenon_materials.pykrete": "Pykrete",
   "material.xenon_materials.pykrete.flavor": "Cold hard ice",
-  "material.xenon_materials.pykrete.encyclopedia": "Grants up to +2.0 damage per level in colder temperatures",
+  "material.xenon_materials.pykrete.encyclopedia": "Grants up to +2.0 damage per level in colder temperatures.",
   "material.xenon_materials.pykrete.encyclopedia.ranged": "Grants up to +0.75 power in cold biomes, but loses up to -0.75 power in hot biomes.",
   "material.xenon_materials.pykrete.encyclopedia.armor": "Grants up to +5% protection in cold biomes, but loses up to -5% protection in hot biomes.",
   "material.xenon_materials.pykrete.encyclopedia.ammo": "Projectiles deal +0.75 damage against mobs immune to fire.",
@@ -107,7 +107,7 @@
   "material.xenon_materials.midnight_bronze": "Midnight Bronze",
   "material.xenon_materials.midnight_bronze.flavor": "As opposed to midday bronze",
   "material.xenon_materials.midnight_bronze.encyclopedia": "Damage increases by +1.6 per level over the course of 60 minutes, resets if you sleep.",
-  "material.xenon_materials.midnight_bronze.encyclopedia.ranged": "Boosts drawspeed by +12.5% per level.",
+  "material.xenon_materials.midnight_bronze.encyclopedia.ranged": "Grants bonus drawspeed in low sky light, up to +0.15 per level at a light level of 0.",
   "material.xenon_materials.midnight_bronze.encyclopedia.armor": "Boosts movement speed when using items by +7.5% per level.",
   
   "modifier.xenon_materials.insomniac": "Insomniac",
@@ -115,9 +115,14 @@
   "modifier.xenon_materials.insomniac.description": "Tool does more damage the longer you go without sleeping",
   "modifier.xenon_materials.insomniac.attack_damage": "Max Insomniac Damage",
   
+  "modifier.xenon_materials.nightstalker": "Nightstalker",
+  "modifier.xenon_materials.nightstalker.flavor": "Lurking in the darkness",
+  "modifier.xenon_materials.nightstalker.description": "Tool draws faster in the dark",
+  "modifier.xenon_materials.nightstalker.draw_speed": "Nightstalker Speed",
+
   "modifier.xenon_materials.dexterous": "Dexterous",
   "modifier.xenon_materials.dexterous.flavor": "Fast fingers",
-  "modifier.xenon_materials.dexterous.description": "Tool draws faster and armor hinders movement speed less when using items",
+  "modifier.xenon_materials.dexterous.description": "Armor hinders movement speed less when using items",
   "modifier.xenon_materials.dexterous.draw_speed": "Dexterous Speed",
   
   "block.xenon_materials.midday_bronze_block": "Midday Bronze Block",
@@ -152,7 +157,8 @@
   "material.xenon_materials.fungal.encyclopedia": "Mining dirt has a 20% chance per level of consuming the dirt to grant +3 soilshield. Richer soil types, such as mycelium and mud, grant +5 soilshield.",
   "material.xenon_materials.fungal.encyclopedia.ranged": "Causes 5 seconds of poison at the modifier level. Consecutive hits replace the duration instead of adding to it.",
   "material.xenon_materials.fungal.encyclopedia.armor": "Has a 50% chance when hit (or 100% chance if blocking) to poison the attacker for 5 seconds.",
-  
+  "material.xenon_materials.fungal.encyclopedia.ammo": "Causes 5 seconds of poison at the modifier level. Consecutive hits replace the duration instead of adding to it.",
+
   "modifier.xenon_materials.soilshield": "Soilshield",
   "modifier.xenon_materials.soilshield.flavor": "Shielded by the earth",
   "modifier.xenon_materials.soilshield.description": "Tool uses soilshield instead of durability until it runs out",
@@ -200,9 +206,9 @@
 
   "material.xenon_materials.grimslime": "Grimslime",
   "material.xenon_materials.grimslime.flavor": "Fear the reaper!",
-  "material.xenon_materials.grimslime.encyclopedia": "Common hostile mob drops (bones, flesh, slime, etc.) have a 20% chance per level to be consumed to grant +3 overslime",
-  "material.xenon_materials.grimslime.encyclopedia.ranged": "Boosts drawspeed by +0.2 per level multiplied by the percentage of remaining overslime",
-  "material.xenon_materials.grimslime.encyclopedia.armor": "5% of taken magic damage is absorbed and converted into overslime",
+  "material.xenon_materials.grimslime.encyclopedia": "Common hostile mob drops (bones, flesh, slime, etc.) have a 20% chance per level to be consumed to grant +3 overslime.",
+  "material.xenon_materials.grimslime.encyclopedia.ranged": "Boosts drawspeed by +0.2 per level multiplied by the percentage of remaining overslime.",
+  "material.xenon_materials.grimslime.encyclopedia.armor": "5% of taken magic damage is absorbed and converted into overslime.",
   
   "modifier.xenon_materials.overreap": "Overreap",
   "modifier.xenon_materials.overreap.flavor": "You reap what you sow",
@@ -226,9 +232,9 @@
   "item.xenon_materials.aurucelium": "Aurucelium",
   "material.xenon_materials.aurucelium": "Aurucelium",
   "material.xenon_materials.aurucelium.flavor": "Magnificently muggy metallic mycelium material",
-  "material.xenon_materials.aurucelium.encyclopedia": "Grants up to +1.25 damage per level in hot temperatures, but loses up to -1.25 damage per level in cold biomes",
-  "material.xenon_materials.aurucelium.encyclopedia.ranged": "Grants up to +0.75 power per level in hot biomes, but loses up to -0.75 power per level in cold biomes",
-  "material.xenon_materials.aurucelium.encyclopedia.armor": "Grants up to +5% protection in hot biomes, but loses up to -5% protection per level in cold biomes",
+  "material.xenon_materials.aurucelium.encyclopedia": "Grants up to +1.25 damage per level in hot temperatures, but loses up to -1.25 damage per level in cold biomes.",
+  "material.xenon_materials.aurucelium.encyclopedia.ranged": "Grants up to +0.75 power per level in hot biomes, but loses up to -0.75 power per level in cold biomes.",
+  "material.xenon_materials.aurucelium.encyclopedia.armor": "Grants up to +5% protection in hot biomes, but loses up to -5% protection per level in cold biomes.",
   
   "modifier.xenon_materials.thermophile": "Thermophile",
   "modifier.xenon_materials.thermophile.flavor": "Hot-blooded",
@@ -250,8 +256,8 @@
 
   "material.xenon_materials.bluehat": "Bluehat",
   "material.xenon_materials.bluehat.flavor": "It's blue!",
-  "material.xenon_materials.bluehat.encyclopedia": "Grants +5% attack damage per level against anything with a hat or helmet",
-  "material.xenon_materials.bluehat.encyclopedia.ranged": "Grants +0.3 damage per level against hat-wearing mobs",
+  "material.xenon_materials.bluehat.encyclopedia": "Grants +5% attack damage per level against anything with a hat or helmet.",
+  "material.xenon_materials.bluehat.encyclopedia.ranged": "Grants +0.3 damage per level against hat-wearing mobs.",
   "material.xenon_materials.bluehat.encyclopedia.armor": "Grants +1 safe fall distance and +5% movement speed per level. Boots also grant 1 extra jump.",
   
   "modifier.xenon_materials.antihat": "Anti-Hat",
@@ -282,9 +288,9 @@
 
   "material.xenon_materials.platinum": "Platinum",
   "material.xenon_materials.platinum.flavor": "It's what winners use!",
-  "material.xenon_materials.platinum.encyclopedia": "Grants 2-6 bonus nugget drops when mining ore, boosted at higher levels",
+  "material.xenon_materials.platinum.encyclopedia": "Grants 2-6 bonus nugget drops when mining ore, boosted at higher levels.",
   "material.xenon_materials.platinum.encyclopedia.ranged": "Hitting a distant monster has a 5% chance per level to drop nuggets. 50 blocks or more drops platinum, 40 blocks gold, 30 blocks iron, and 20 blocks copper.",
-  "material.xenon_materials.platinum.encyclopedia.armor": "Reduces damage from undead and the duration of negative effects by 5% per level",
+  "material.xenon_materials.platinum.encyclopedia.armor": "Reduces damage from undead and the duration of negative effects by 5% per level.",
   
   "modifier.xenon_materials.dispel": "Dispel",
   "modifier.xenon_materials.dispel.flavor": "Spellbuster",
@@ -327,7 +333,7 @@
   "material.xenon_materials.deepbrass.encyclopedia": "Grants bonus damage at lower depth, +1.6 per 64 blocks below 64.",
   "material.xenon_materials.deepbrass.encyclopedia.ranged": "Grants bonus draw speed at lower depth, +0.75 per 64 blocks below 64.",
   "material.xenon_materials.deepbrass.encyclopedia.armor": "Armor provides +5% knockback resistance and takes reduced damage at lower depth, +10% per 64 blocks below 64.",
-  "material.xenon_materials.deepbrass.encyclopedia.ammo": "Grants bonus at lower depth, +0.5 per 64 blocks below 64",
+  "material.xenon_materials.deepbrass.encyclopedia.ammo": "Grants bonus damage at lower depth, +0.5 per 64 blocks below 64.",
   
   "modifier.xenon_materials.subterranean": "Subterranean",
   "modifier.xenon_materials.subterranean.flavor": "Subsurface dwelling",

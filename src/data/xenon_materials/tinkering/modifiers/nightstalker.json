@@ -1,0 +1,37 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:conditional_stat",
+      "formula": [
+        15.0,
+        "$sky",
+        "-",
+        0.01,
+        "*",
+        "non-negative",
+        "$level",
+        "*",
+        "$value",
+        "+"
+      ],
+      "percent": false,
+      "stat": "tconstruct:draw_speed",
+      "variables": {
+        "block": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:light",
+          "fallback": 15.0,
+          "light_layer": "block"
+        },
+        "sky": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:light",
+          "fallback": 15.0,
+          "light_layer": "sky"
+        }
+      }
+    }
+  ],
+  "tooltip_display": "always"
+}
