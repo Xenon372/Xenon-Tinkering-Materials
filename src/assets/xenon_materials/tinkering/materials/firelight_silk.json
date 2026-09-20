@@ -1,5 +1,5 @@
 {
-  "color": "FFB30000",
+  "color": "FFFF6300",
   "fallbacks": [
     "cloth"
   ],
@@ -13,19 +13,40 @@
       "tconstruct:armor_maille"
     ],
     "transformer": {
-      "type": "tconstruct:recolor_sprite",
-      "color_mapping": {
-        "type": "tconstruct:grey_to_color",
-        "palette": {
-          "000": "FF000000",
-          "063": "FF340000",
-          "102": "FF3F0000",
-          "140": "FF540000",
-          "178": "FF760000",
-          "216": "FFB30000",
-          "255": "FFCC0000"
+      "type": "tconstruct:grey_to_sprite",
+      "palette": [
+        {
+          "color": "FF000000",
+          "grey": 0
+        },
+        {
+          "color": "FFC8C8C8",
+          "grey": 63,
+          "path": "xenon_materials:generator/firelight_border"
+        },
+        {
+          "grey": 102,
+          "path": "xenon_materials:generator/firelight_border"
+        },
+        {
+          "color": "FFE1E1E1",
+          "grey": 140,
+          "path": "xenon_materials:generator/firelight"
+        },
+        {
+          "grey": 178,
+          "path": "xenon_materials:generator/firelight"
+        },
+        {
+          "color": "FFE1E1E1",
+          "grey": 216,
+          "path": "xenon_materials:generator/firelight_highlight"
+        },
+        {
+          "grey": 255,
+          "path": "xenon_materials:generator/firelight_highlight"
         }
-      }
+      ]
     }
   }
 }

@@ -1,8 +1,10 @@
 {
+    "loader": "mantle:colored_block",
     "parent": "block/cube_bottom_top",
     "textures": {
         "bottom":   "xenon_materials:block/brimsteel_block_top",
         "top":   "xenon_materials:block/brimsteel_block_top",
         "side":   "xenon_materials:block/brimsteel_block_side"
-    }
+    },
+    "colors": [{ "luminosity": 9 }]
 }

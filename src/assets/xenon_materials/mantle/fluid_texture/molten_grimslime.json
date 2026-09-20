@@ -1,0 +1,13 @@
+{
+  "camera": "xenon_materials:fluid/molten_grimslime/camera",
+  "camera_opacity": 0.1,
+  "color": "FFFFFFFF",
+  "flowing": "xenon_materials:fluid/molten_grimslime/flowing",
+  "fog": {
+    "color": "FF3B00",
+    "end": 2.0,
+    "shape": "sphere",
+    "start": 0.25
+  },
+  "still": "xenon_materials:fluid/molten_grimslime/still"
+}

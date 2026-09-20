@@ -24,9 +24,9 @@
 	"dispel":   "#A3E7FE",
 	"hardforged":   "#F1DAAF",
 	"subterranean":   "#6922B5",
-	"thermodynamic":   "#A5000F",
-	"hyperthermic":   "#A5000F",
-	"firewall":   "#A5000F",
+	"thermodynamic":   "#414553",
+	"hyperthermic":   "#414553",
+	"firewall":   "#414553",
 	"oscillating":   "#5987C8",
 	"lightshot":   "#5987C8"
   },
@@ -52,10 +52,10 @@
 	"platinum":   "#A3E7FE",
 	"platinum_gold":   "#F1DAAF",
 	"deepbrass":   "#6922B5",
-	"brimsteel":   "#A5000F",
+	"brimsteel":   "#414553",
 	"hardlight":   "#5987C8",
 	"hardlight.venom":   "#8EC859",
 	"hardlight.liquid":   "#FFD658",
-	"firelight_silk":   "#B30000"
+	"firelight_silk":   "#FF6300"
   }
 }

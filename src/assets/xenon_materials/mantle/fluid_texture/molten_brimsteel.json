@@ -4,7 +4,7 @@
   "color": "FFFFFFFF",
   "flowing": "xenon_materials:fluid/molten_brimsteel/flowing",
   "fog": {
-    "color": "A11213",
+    "color": "414553",
     "end": 2.0,
     "shape": "sphere",
     "start": 0.25

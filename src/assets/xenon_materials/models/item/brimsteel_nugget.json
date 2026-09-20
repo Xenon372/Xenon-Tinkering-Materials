@@ -1,6 +1,8 @@
 {
+    "loader": "mantle:item_layer",
     "parent": "item/generated",
     "textures": {
         "layer0": "xenon_materials:item/brimsteel_nugget"
-    }
+    },
+    "layers": [{ "luminosity": 9 }]
 }
