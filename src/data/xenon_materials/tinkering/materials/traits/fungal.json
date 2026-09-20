@@ -1,6 +1,5 @@
 {
   "default": [
-    { "name": "xenon_materials:soilshield", "level": 1 },
     { "name": "xenon_materials:earth_eater", "level": 1 }
   ],
   "perStat": {
