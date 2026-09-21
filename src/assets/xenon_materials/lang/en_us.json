@@ -378,6 +378,8 @@
   "modifier.xenon_materials.firewall.resistance": "Firewall Resistance",
   
   "item.xenon_materials.hardlight_sheet": "Hardlight Sheet",
+  "item.xenon_materials.hardlight_liquid_sheet": "Liquidlight Sheet",
+  "item.xenon_materials.hardlight_venom_sheet": "Venomlight Sheet",
   "item.xenon_materials.hardlight_arrow": "Hardlight Arrow",
   
   "material.xenon_materials.hardlight": "Hardlight",

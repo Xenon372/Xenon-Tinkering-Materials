@@ -1,5 +1,5 @@
 {
-  "fallbacks": [ "metal_contrast" ],
+  "fallbacks": [ "photonic", "metal_contrast" ],
   "color": "FF5987C8",
   "luminosity": 10,
   "generator": {

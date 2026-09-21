@@ -2,6 +2,12 @@
   "level_display": "tconstruct:default",
   "modules": [
     {
+      "type": "tconstruct:trait",
+      "fixed_level": false,
+      "level": 1,
+      "name": "xenon_materials:hyperthermic"
+    },
+    {
       "type": "tconstruct:protection",
 	  "formula": [
         "$burning",

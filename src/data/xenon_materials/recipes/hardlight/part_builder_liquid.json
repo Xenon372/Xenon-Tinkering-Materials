@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material",
+  "ingredient": {
+    "item": "xenon_materials:hardlight_liquid_sheet"
+  },
+  "material": "xenon_materials:hardlight#liquid",
+  "needed": 1,
+  "value": 1
+}

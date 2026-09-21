@@ -1,8 +1,10 @@
 {
   "type": "tconstruct:melting",
-  "ingredient": {
-    "item": "xenon_materials:hardlight_sheet"
-  },
+  "ingredient": [
+    { "item": "xenon_materials:hardlight_sheet" },
+    { "item": "xenon_materials:hardlight_liquid_sheet" },
+    { "item": "xenon_materials:hardlight_venom_sheet" }
+  ],
   "result": {
     "fluid": "tconstruct:molten_quartz",
     "amount": 200

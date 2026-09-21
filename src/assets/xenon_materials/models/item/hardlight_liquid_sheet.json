@@ -2,7 +2,7 @@
     "loader": "mantle:item_layer",
     "parent": "item/generated",
     "textures": {
-        "layer0": "xenon_materials:item/hardlight_sheet"
+        "layer0": "xenon_materials:item/hardlight_liquid_sheet"
     },
     "layers": [{ "luminosity": 12 }]
 }

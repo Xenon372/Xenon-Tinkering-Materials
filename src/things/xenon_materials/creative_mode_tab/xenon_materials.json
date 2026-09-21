@@ -57,6 +57,8 @@
     "xenon_materials:brimsteel_block",
 	
     "xenon_materials:hardlight_sheet",
+    "xenon_materials:hardlight_liquid_sheet",
+    "xenon_materials:hardlight_venom_sheet",
     "xenon_materials:firelight_silk"
   ]
 }

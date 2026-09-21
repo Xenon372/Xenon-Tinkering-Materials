@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "amount": 100,
+    "fluid": "tconstruct:molten_quartz"
+  },
+  "input": "xenon_materials:hardlight",
+  "output": "xenon_materials:hardlight",
+  "temperature": 1
+}

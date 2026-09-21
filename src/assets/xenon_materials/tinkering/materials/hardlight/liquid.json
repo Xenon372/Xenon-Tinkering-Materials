@@ -1,5 +1,5 @@
 {
-  "fallbacks": [ "metal_contrast" ],
+  "fallbacks": [ "photonic", "metal_contrast" ],
   "color": "FFFFD658",
   "luminosity": 10,
   "generator": {
@@ -46,7 +46,6 @@
       "tconstruct:handle",
       "tconstruct:binding",
       "tconstruct:repair_kit",
-      "tconstruct:limb",
       "tconstruct:grip"
     ],
     "ignoreMaterialStats": false

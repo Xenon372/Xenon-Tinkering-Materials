@@ -4,7 +4,6 @@
   ],
   "perStat": {
     "tconstruct:armor": [
-      { "name": "xenon_materials:hyperthermic", "level": 1 },
       { "name": "xenon_materials:firewall", "level": 1 }
     ]
   }

@@ -2,6 +2,10 @@
   "level_display": "tconstruct:default",
   "modules": [
     {
+      "type": "tconstruct:material_variant_color",
+      "material": "xenon_materials:hardlight"
+    },
+    {
       "type": "tconstruct:conditional_melee_damage",
       "formula": [
         "$armor",
