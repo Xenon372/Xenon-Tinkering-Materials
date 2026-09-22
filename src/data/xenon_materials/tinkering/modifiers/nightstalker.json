@@ -4,12 +4,13 @@
     {
       "type": "tconstruct:conditional_stat",
       "formula": [
-        15.0,
         "$sky",
-        "-",
+        "$block",
+        "max",
+        15.0,
+        "!-",
         0.01,
         "*",
-        "non-negative",
         "$level",
         "*",
         "$value",

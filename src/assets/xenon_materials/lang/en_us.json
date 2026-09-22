@@ -1,5 +1,9 @@
 {
   "itemGroup.xenon_materials.xenon_materials": "Xenon's Tinkering Materials",
+
+  "modifier.xenon_materials.top_hat": "Top Hat",
+  "modifier.xenon_materials.top_hat.flavor": "Like a certain blue guy",
+  "modifier.xenon_materials.top_hat.description": "Gives your tool a fancy top hat!",
   
   "block.xenon_materials.verdant_steel_block": "Verdant Steel Block",
   "item.xenon_materials.verdant_steel_ingot": "Verdant Steel Ingot",
@@ -107,7 +111,7 @@
   "material.xenon_materials.midnight_bronze": "Midnight Bronze",
   "material.xenon_materials.midnight_bronze.flavor": "As opposed to midday bronze",
   "material.xenon_materials.midnight_bronze.encyclopedia": "Damage increases by +1.6 per level over the course of 60 minutes, resets if you sleep.",
-  "material.xenon_materials.midnight_bronze.encyclopedia.ranged": "Grants bonus drawspeed in low sky light, up to +0.15 per level at a light level of 0.",
+  "material.xenon_materials.midnight_bronze.encyclopedia.ranged": "Grants bonus drawspeed in low light, up to +0.15 per level at a light level of 0.",
   "material.xenon_materials.midnight_bronze.encyclopedia.armor": "Boosts movement speed when using items by +7.5% per level.",
   
   "modifier.xenon_materials.insomniac": "Insomniac",
@@ -117,7 +121,7 @@
   
   "modifier.xenon_materials.nightstalker": "Nightstalker",
   "modifier.xenon_materials.nightstalker.flavor": "Lurking in the darkness",
-  "modifier.xenon_materials.nightstalker.description": "Tool draws faster in the dark",
+  "modifier.xenon_materials.nightstalker.description": "Tool draws faster in the dark and at night",
   "modifier.xenon_materials.nightstalker.draw_speed": "Nightstalker Speed",
 
   "modifier.xenon_materials.dexterous": "Dexterous",
@@ -228,7 +232,7 @@
   "material.xenon_materials.ferroshroom.flavor": "Marvelously mesmerizing metallic mushroom material",
   "material.xenon_materials.ferroshroom.encyclopedia": "When losing 1 durability, tool loses 1 extra durability (bypassing modifiers) to share durability with a random tool in the hotbar or offhand. Target gains 1 barkskin plus 1 per level.",
 
-  "__comment": "Aurucelium is a portmanteau of Aurum (gold in Latin) and Mycelium, the name was given by user @absorbingsafe11 on Discord",
+  "__comment": "Aurucelium is a portmanteau of aurum (gold in Latin) and mycelium, the name was given by user @absorbingsafe11 on Discord",
   "item.xenon_materials.aurucelium": "Aurucelium",
   "material.xenon_materials.aurucelium": "Aurucelium",
   "material.xenon_materials.aurucelium.flavor": "Magnificently muggy metallic mycelium material",

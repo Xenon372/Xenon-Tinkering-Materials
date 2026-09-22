@@ -1,0 +1,13 @@
+{
+  "modifier_id": "xenon_materials:top_hat",
+  "text": [
+    {
+      "text": "Puts a top hat on the tool. That's all, it's just decorative."
+    }
+  ],
+  "more_text_space": true,
+  "effects": [
+    "Maximum of 1 level",
+    "Slotless"
+  ]
+}

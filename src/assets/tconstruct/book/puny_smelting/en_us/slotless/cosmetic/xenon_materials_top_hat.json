@@ -1,0 +1,13 @@
+{
+  "modifier_id": "xenon_materials:top_hat",
+  "text": [
+    {
+      "text": "If you really want to put a hat on your tool for some reason, this is the modifier for you."
+    }
+  ],
+  "effects": [
+    "Gives your tool a fancy hat",
+    "That's all it does",
+    "Slotless"
+  ]
+}

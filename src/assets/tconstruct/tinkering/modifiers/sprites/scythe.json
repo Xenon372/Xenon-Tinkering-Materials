@@ -1,0 +1,7 @@
+{
+  "modifiers": {
+    "xenon_materials:top_hat": {
+      "texture_large": "tconstruct:item/tool/scythe/large/modifiers/xenon_materials_top_hat"
+    }
+  }
+}

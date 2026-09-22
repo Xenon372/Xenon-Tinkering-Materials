@@ -1,0 +1,23 @@
+{
+  "type": "tconstruct:modifier",
+  "allow_crystal": true,
+  "inputs": [
+    {
+      "item": "xenon_materials:bluehat_nugget"
+    },
+    {
+      "tag": "minecraft:wool"
+    }
+  ],
+  "level": 1,
+  "result": "xenon_materials:top_hat",
+  "tools": {
+    "type": "forge:difference",
+    "base": {
+        "tag": "tconstruct:modifiable/durability"
+      },
+    "subtracted": {
+        "tag": "tconstruct:modifiable/armor"
+      }
+  }
+}
