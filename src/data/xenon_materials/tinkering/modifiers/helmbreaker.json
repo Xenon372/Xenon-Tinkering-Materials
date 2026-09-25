@@ -52,5 +52,5 @@
       }
     }
   ],
-  "tooltip_display": "never"
+  "show_in_tooltips": "never"
 }

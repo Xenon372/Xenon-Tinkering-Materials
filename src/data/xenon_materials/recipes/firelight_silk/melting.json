@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_melting",
+  "input": "xenon_materials:firelight_silk",
+  "temperature": 1500,
+  "result": {
+    "fluid": "xenon_materials:molten_brimsteel",
+    "amount": 90
+  }
+}

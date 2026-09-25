@@ -7,7 +7,7 @@
       { "name": "xenon_materials:nightstalker", "level": 1 }
     ],
     "tconstruct:armor": [
-      { "name": "xenon_materials:dexterous", "level": 1 }
+      { "name": "xenon_materials:nightstalker", "level": 1 }
     ]
   }
 }

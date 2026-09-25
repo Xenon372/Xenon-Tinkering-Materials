@@ -113,7 +113,7 @@
   "material.xenon_materials.midnight_bronze.flavor": "As opposed to midday bronze",
   "material.xenon_materials.midnight_bronze.encyclopedia": "Damage increases by +1.6 per level over the course of 60 minutes, resets if you sleep.",
   "material.xenon_materials.midnight_bronze.encyclopedia.ranged": "Grants bonus drawspeed in low light, up to +0.15 per level at a light level of 0.",
-  "material.xenon_materials.midnight_bronze.encyclopedia.armor": "Boosts movement speed when using items by +7.5% per level.",
+  "material.xenon_materials.midnight_bronze.encyclopedia.armor": "Grants bonus protection in low light, up to 5% per level at a light level of 0.",
   
   "modifier.xenon_materials.insomniac": "Insomniac",
   "modifier.xenon_materials.insomniac.flavor": "Sleep is for the weak!",
@@ -122,14 +122,10 @@
   
   "modifier.xenon_materials.nightstalker": "Nightstalker",
   "modifier.xenon_materials.nightstalker.flavor": "Lurking in the darkness",
-  "modifier.xenon_materials.nightstalker.description": "Tool draws faster in the dark and at night",
+  "modifier.xenon_materials.nightstalker.description": "Tool draws faster and protects more in the dark and at night",
   "modifier.xenon_materials.nightstalker.draw_speed": "Nightstalker Speed",
+  "modifier.xenon_materials.nightstalker.resistance": "Protection",
 
-  "modifier.xenon_materials.dexterous": "Dexterous",
-  "modifier.xenon_materials.dexterous.flavor": "Fast fingers",
-  "modifier.xenon_materials.dexterous.description": "Armor hinders movement speed less when using items",
-  "modifier.xenon_materials.dexterous.draw_speed": "Dexterous Speed",
-  
   "block.xenon_materials.midday_bronze_block": "Midday Bronze Block",
   "item.xenon_materials.midday_bronze_ingot": "Midday Bronze Ingot",
   "item.xenon_materials.midday_bronze_nugget": "Midday Bronze Nugget",
@@ -403,5 +399,11 @@
   "material.xenon_materials.firelight_silk.flavor": "Bonfire lit",
   "material.xenon_materials.firelight_silk.encyclopedia": "Tool automatically smelts all drops. Higher levels have a 20% chance of an extra smelted drops per level.",
   "material.xenon_materials.firelight_silk.encyclopedia.armor": "Increases protection by 5% per level against on fire attackers.",
-  "material.xenon_materials.firelight_silk.encyclopedia.ranged": "Arrows automatically smelt all drops. Higher levels have a 20% chance of an extra smelted drops per level."
+  "material.xenon_materials.firelight_silk.encyclopedia.ranged": "Arrows automatically smelt all drops. Higher levels have a 20% chance of an extra smelted drops per level.",
+
+  "__comment": "Unused (for now)",
+  "modifier.xenon_materials.dexterous": "Dexterous (Unused)",
+  "modifier.xenon_materials.dexterous.flavor": "Fast fingers (how did you find this?)",
+  "modifier.xenon_materials.dexterous.description": "Armor hinders movement speed less when using items, +7.5% per level.",
+  "modifier.xenon_materials.dexterous.draw_speed": "Dexterous Speed"
 }
