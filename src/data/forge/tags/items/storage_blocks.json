@@ -1,16 +1,16 @@
 {
   "values": [
-    "#forge:ingots/bluehat",
-    "#forge:ingots/brimsteel",
-    "#forge:ingots/deepbrass",
-    "#forge:gems/jewelslime",
-    "#forge:ingots/grimslime",
-    "#forge:ingots/midday_bronze",
-    "#forge:ingots/midnight_bronze",
-    "#forge:ingots/neutralite",
-    "#forge:ingots/platinum",
-    "#forge:ingots/platinum_gold",
-    "#forge:ingots/verdant_steel",
-    "#forge:ingots/vermillium"
+    "#forge:storage_blocks/bluehat",
+    "#forge:storage_blocks/brimsteel",
+    "#forge:storage_blocks/deepbrass",
+    "#forge:storage_blocks/jewelslime",
+    "#forge:storage_blocks/grimslime",
+    "#forge:storage_blocks/midday_bronze",
+    "#forge:storage_blocks/midnight_bronze",
+    "#forge:storage_blocks/neutralite",
+    "#forge:storage_blocks/platinum",
+    "#forge:storage_blocks/platinum_gold",
+    "#forge:storage_blocks/verdant_steel",
+    "#forge:storage_blocks/vermillium"
   ]
 }

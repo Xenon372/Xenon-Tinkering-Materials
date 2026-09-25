@@ -20,7 +20,8 @@
   "material.xenon_materials.verdant_steel.flavor": "Talk about a green metal",
   "material.xenon_materials.verdant_steel.encyclopedia": "Grants +50% XP per level from blocks and monsters.",
   "material.xenon_materials.verdant_steel.encyclopedia.ranged": "Grants +50% XP per level from monsters killed by arrows.",
-  
+  "material.xenon_materials.verdant_steel.encyclopedia.armor": "Grants +25% XP per level from blocks and monsters.",
+
   "block.xenon_materials.neutralite_block": "Neutralite Block",
   "item.xenon_materials.neutralite_ingot": "Neutralite Ingot",
   "item.xenon_materials.neutralite_nugget": "Neutralite Nugget",
@@ -384,24 +385,18 @@
   "item.xenon_materials.hardlight_sheet": "Hardlight Sheet",
   "item.xenon_materials.hardlight_liquid_sheet": "Liquidlight Sheet",
   "item.xenon_materials.hardlight_venom_sheet": "Venomlight Sheet",
-  "item.xenon_materials.hardlight_arrow": "Hardlight Arrow",
   
   "material.xenon_materials.hardlight": "Hardlight",
   "material.xenon_materials.hardlight.venom": "Venomlight",
   "material.xenon_materials.hardlight.liquid": "Liquidlight",
   "material.xenon_materials.hardlight.flavor": "Not quite a liquid",
   "material.xenon_materials.hardlight.encyclopedia": "Grants +8% damage against armored targets and up to +10 mining speed on the hardest blocks, such as obsidian.",
-  "material.xenon_materials.hardlight.encyclopedia.ranged": "Bow fires arrows of solid light at the cost of extra durability. Bow can no longer fire normal arrows, but gains +0.15 velocity.",
   
   "modifier.xenon_materials.oscillating": "Oscillating",
   "modifier.xenon_materials.oscillating.flavor": "High frequency!",
   "modifier.xenon_materials.oscillating.description": "Tool deals more damage against armored targets and breaks harder blocks faster",
   "modifier.xenon_materials.oscillating.attack_damage": "Oscillating Damage",
   "modifier.xenon_materials.oscillating.mining_speed": "Max Oscillating Speed",
-  
-  "modifier.xenon_materials.lightshot": "Lightshot",
-  "modifier.xenon_materials.lightshot.flavor": "Say cheese!",
-  "modifier.xenon_materials.lightshot.description": "Tool consumes extra durability to fire speedy light arrows",
 
   "item.xenon_materials.firelight_silk": "Firelight Silk",
   "material.xenon_materials.firelight_silk": "Firelight Silk",

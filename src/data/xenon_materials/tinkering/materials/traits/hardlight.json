@@ -1,10 +1,5 @@
 {
   "default": [
     { "name": "xenon_materials:oscillating", "level": 1 }
-  ],
-  "perStat": {
-    "tconstruct:ranged": [
-      { "name": "xenon_materials:lightshot", "level": 1 }
-    ]
-  }
+  ]
 }
