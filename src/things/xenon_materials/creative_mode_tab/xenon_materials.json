@@ -22,9 +22,17 @@
 	"xenon_materials:midday_bronze_nugget",
 	"xenon_materials:midday_bronze_ingot",
     "xenon_materials:midday_bronze_block",
+
+    "xenon_materials:twilight_bronze_nugget",
+    "xenon_materials:twilight_bronze_ingot",
+    "xenon_materials:twilight_bronze_block",
 	
     "xenon_materials:soggy_paper",
     "xenon_materials:pykrete_bar",
+    "xenon_materials:firelight_silk",
+
+    "xenon_materials:ferroshroom",
+    "xenon_materials:aurucelium",
 
     "xenon_materials:jewelslime_gem",
     "xenon_materials:jewelslime_block",
@@ -32,9 +40,6 @@
 	"xenon_materials:grimslime_nugget",
 	"xenon_materials:grimslime_ingot",
     "xenon_materials:grimslime_block",
-
-    "xenon_materials:ferroshroom",
-    "xenon_materials:aurucelium",
 	
 	"xenon_materials:bluehat_nugget",
 	"xenon_materials:bluehat_ingot",
@@ -58,11 +63,6 @@
 	
     "xenon_materials:hardlight_sheet",
     "xenon_materials:hardlight_liquid_sheet",
-    "xenon_materials:hardlight_venom_sheet",
-    "xenon_materials:firelight_silk",
-
-    "xenon_materials:twilight_bronze_nugget",
-    "xenon_materials:twilight_bronze_ingot",
-    "xenon_materials:twilight_bronze_block"
+    "xenon_materials:hardlight_venom_sheet"
   ]
 }

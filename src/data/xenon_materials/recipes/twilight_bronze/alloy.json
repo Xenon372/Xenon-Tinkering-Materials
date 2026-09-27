@@ -3,7 +3,7 @@
   "inputs": [
     { "tag": "tconstruct:molten_amethyst_bronze",     "amount":   90 },
     { "tag": "tconstruct:liquid_soul",     "amount":   250 },
-    { "tag": "tconstruct:molten_obsidian",   "amount":   250 }
+    { "tag": "tconstruct:molten_ender",   "amount":   250 }
   ],
   "result": {
     "fluid": "xenon_materials:molten_twilight_bronze",

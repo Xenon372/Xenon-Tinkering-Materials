@@ -342,7 +342,7 @@
   "modifier.xenon_materials.subterranean.attack_damage": "Subterranean Damage",
   "modifier.xenon_materials.subterranean.draw_speed": "Subterranean Speed",
   "modifier.xenon_materials.subterranean.reinforced": "Subterranean Reinforcement",
-  "modifier.xenon_materials.subterranean.projectile_damage": "Subterranean Damage",
+  "modifier.xenon_materials.subterranean.projectile_damage": "Subterranean Power",
   
   "block.xenon_materials.brimsteel_block": "Brimsteel Block",
   "item.xenon_materials.brimsteel_ingot": "Brimsteel Ingot",
@@ -423,6 +423,7 @@
   "modifier.xenon_materials.crepuscular.description": "Tool is faster or stronger depending on how bright it is",
   "modifier.xenon_materials.crepuscular.attack_damage": "Crepuscular Damage",
   "modifier.xenon_materials.crepuscular.mining_speed": "Crepuscular Mining",
+  "modifier.xenon_materials.crepuscular.projectile_damage": "Crepuscular Power",
   "modifier.xenon_materials.crepuscular.draw_speed": "Crepuscular Speed",
   "modifier.xenon_materials.crepuscular.resistance": "Protection",
 
