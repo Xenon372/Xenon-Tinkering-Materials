@@ -1,8 +1,8 @@
 {
   "replace": false,
   "values": [
-    "xenon_materials:molten_verdant_steel",
-    "xenon_materials:molten_verdant_steel_flowing",
+    "xenon_materials:molten_viridium",
+    "xenon_materials:molten_viridium_flowing",
     "xenon_materials:molten_neutralite",
     "xenon_materials:molten_neutralite_flowing",
     "xenon_materials:molten_vermillium",
@@ -22,6 +22,8 @@
     "xenon_materials:molten_deepbrass",
     "xenon_materials:molten_deepbrass_flowing",
     "xenon_materials:molten_brimsteel",
-    "xenon_materials:molten_brimsteel_flowing"
+    "xenon_materials:molten_brimsteel_flowing",
+    "xenon_materials:molten_twilight_bronze",
+    "xenon_materials:molten_twilight_bronze_flowing"
   ]
 }

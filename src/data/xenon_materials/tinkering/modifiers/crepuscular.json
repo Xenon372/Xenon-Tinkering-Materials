@@ -1,0 +1,218 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:conditional_melee_damage",
+      "formula": [
+        "$sky",
+        "$block",
+        "max",
+        7.0,
+        "-",
+        "non-negative",
+        6.4,
+        "/",
+        "$level",
+        "*",
+        "$multiplier",
+        "*",
+        "$damage",
+        "+"
+      ],
+      "tool": {
+        "type": "mantle:tag",
+        "tag": "tconstruct:modifiable/melee"
+      },
+      "percent": false,
+      "variables": {
+        "block": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:light",
+          "fallback": 15.0,
+          "light_layer": "block",
+          "which": "attacker"
+        },
+        "sky": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:light",
+          "fallback": 15.0,
+          "light_layer": "sky",
+          "which": "attacker"
+        }
+      }
+    },
+    {
+      "type": "tconstruct:conditional_mining_speed",
+      "formula": [
+        "$sky",
+        "$block",
+        "max",
+        8.0,
+        "!-",
+        "non-negative",
+        "$level",
+        "*",
+        "$multiplier",
+        "*",
+        "$speed",
+        "+"
+      ],
+      "percent": false,
+      "variables": {
+        "block": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:light",
+          "fallback": 15.0,
+          "light_layer": "block"
+        },
+        "sky": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:light",
+          "fallback": 15.0,
+          "light_layer": "sky"
+        }
+      }
+    },
+
+    {
+      "type": "tconstruct:conditional_power",
+      "formula": [
+        "$sky",
+        "$block",
+        "max",
+        7.0,
+        "-",
+        "non-negative",
+        10,
+        "/",
+        "$level",
+        "*",
+        "$multiplier",
+        "*",
+        "$damage",
+        "+"
+      ],
+      "percent": false,
+      "variables": {
+        "block": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:light",
+          "fallback": 15.0,
+          "light_layer": "block",
+          "which": "attacker"
+        },
+        "sky": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:light",
+          "fallback": 15.0,
+          "light_layer": "sky",
+          "which": "attacker"
+        }
+      }
+    },
+    {
+      "type": "tconstruct:conditional_stat",
+      "formula": [
+        "$sky",
+        "$block",
+        "max",
+        7.0,
+        "!-",
+        46.0,
+        2.0,
+        3.0,
+        "/",
+        "+",
+        "/",
+        "$level",
+        "*",
+        "$multiplier",
+        "*",
+        "$value",
+        "+"
+      ],
+      "percent": false,
+      "stat": "tconstruct:draw_speed",
+      "variables": {
+        "block": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:light",
+          "fallback": 15.0,
+          "light_layer": "block"
+        },
+        "sky": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:light",
+          "fallback": 15.0,
+          "light_layer": "sky"
+        }
+      }
+    },
+
+    {
+      "type": "tconstruct:protection",
+      "damage_source": "mantle:can_protect",
+      "formula": [
+        "$sky",
+        "$block",
+        "max",
+        7.0,
+        "-",
+        "non-negative",
+        6.4,
+        "/",
+        "$level",
+        "*",
+        "$protection",
+        "+"
+      ],
+      "tool": {
+        "type": "mantle:tag",
+        "tag": "tconstruct:modifiable/armor"
+      },
+      "variables": {
+        "block": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:light",
+          "fallback": 15.0,
+          "light_layer": "block",
+          "which": "target"
+        },
+        "sky": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:light",
+          "fallback": 15.0,
+          "light_layer": "sky",
+          "which": "target"
+        }
+      }
+    },
+
+    {
+      "type": "tconstruct:attribute",
+      "attribute": "minecraft:generic.movement_speed",
+      "each_level": 0.05,
+      "operation": "multiply_total",
+      "slots": [
+        "feet",
+        "legs",
+        "chest",
+        "head"
+      ]
+    },
+    {
+      "type": "tconstruct:lightspeed_attribute",
+      "attribute": "minecraft:generic.movement_speed",
+      "damage_chance": 0.0,
+      "light_layer": "block",
+      "min_light": 8,
+      "operation": "multiply_total",
+      "per_level": -1.0E-2,
+      "tool": {
+        "type": "mantle:tag",
+        "tag": "tconstruct:modifiable/armor"
+      }
+    }
+  ],
+  "show_in_tooltips": "always"
+}

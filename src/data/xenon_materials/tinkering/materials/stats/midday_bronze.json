@@ -2,27 +2,26 @@
   "stats": {
     "tconstruct:binding": {},
     "tconstruct:grip": {
-      "accuracy": 0.15,
-      "durability": 0.1,
+      "accuracy": 0.1,
+      "durability": 0.05,
       "melee_damage": 2.75
     },
     "tconstruct:handle": {
       "durability": 0.05,
-      "mining_speed": 0.15,
-      "melee_damage": 0.05,
+      "mining_speed": 0.05,
       "melee_speed": -0.05
     },
     "tconstruct:head": {
       "durability": 920,
-      "mining_speed": 8,
+      "mining_speed": 7,
       "mining_tier": "minecraft:diamond",
       "melee_attack": 2.75
     },
     "tconstruct:limb": {
-      "accuracy": 0.15,
-      "draw_speed": 0.1,
+      "accuracy": 0.1,
+      "draw_speed": 0.05,
       "durability": 920,
-      "velocity": -0.15
+      "velocity": -0.05
     },
     "tconstruct:maille": {},
     "tconstruct:plating_helmet": {
@@ -50,12 +49,12 @@
       "toughness": 0.5
     },
     "joy_of_tinkering:barrel": {
-      "accuracy": 0.15,
+      "accuracy": 0.1,
       "durability": 920,
-      "velocity": -0.1
+      "velocity": -0.05
     },
     "joy_of_tinkering:firing_mechanism": {
-      "draw_speed": 0.1,
+      "draw_speed": 0.05,
       "max_ammo": 6.0,
       "projectile_damage": 2.25
     }

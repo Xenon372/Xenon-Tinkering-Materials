@@ -9,15 +9,17 @@
         "max",
         15.0,
         "!-",
-        0.01,
+        0.02,
         "*",
+        3.0,
+        "/",
         "$level",
         "*",
         "$value",
         "+"
       ],
       "percent": false,
-      "stat": "tconstruct:draw_speed",
+      "stat": "tconstruct:velocity",
       "variables": {
         "block": {
           "type": "tconstruct:entity",

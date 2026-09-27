@@ -1,0 +1,9 @@
+{
+  "type": "tconstruct:material_fluid",
+  "fluid": {
+    "fluid": "xenon_materials:molten_twilight_bronze",
+    "amount": 90
+  },
+  "temperature": 900,
+  "output": "xenon_materials:twilight_bronze"
+}

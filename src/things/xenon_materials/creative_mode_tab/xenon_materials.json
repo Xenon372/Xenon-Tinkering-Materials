@@ -1,11 +1,11 @@
 {
-  "icon": "xenon_materials:verdant_steel_ingot",
+  "icon": "xenon_materials:viridium_ingot",
   "after": ["tconstruct:world"],
   "translation_key": "itemGroup.xenon_materials.xenon_materials",
   "items": [
-    "xenon_materials:verdant_steel_nugget",
-    "xenon_materials:verdant_steel_ingot",
-    "xenon_materials:verdant_steel_block",
+    "xenon_materials:viridium_nugget",
+    "xenon_materials:viridium_ingot",
+    "xenon_materials:viridium_block",
 	
     "xenon_materials:neutralite_nugget",
     "xenon_materials:neutralite_ingot",
@@ -59,6 +59,10 @@
     "xenon_materials:hardlight_sheet",
     "xenon_materials:hardlight_liquid_sheet",
     "xenon_materials:hardlight_venom_sheet",
-    "xenon_materials:firelight_silk"
+    "xenon_materials:firelight_silk",
+
+    "xenon_materials:twilight_bronze_nugget",
+    "xenon_materials:twilight_bronze_ingot",
+    "xenon_materials:twilight_bronze_block"
   ]
 }

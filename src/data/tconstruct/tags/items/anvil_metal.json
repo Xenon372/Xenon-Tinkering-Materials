@@ -1,6 +1,6 @@
 {
   "values": [
-    "xenon_materials:verdant_steel_block",
+    "xenon_materials:viridium_block",
     "xenon_materials:neutralite_block",
     "xenon_materials:vermillium_block",
     "xenon_materials:midnight_bronze_block",
@@ -10,6 +10,7 @@
     "xenon_materials:bluehat_block",
     "xenon_materials:platinum_gold_block",
     "xenon_materials:deepbrass_block",
-    "xenon_materials:brimsteel_block"
+    "xenon_materials:brimsteel_block",
+    "xenon_materials:twilight_bronze_block"
   ]
 }

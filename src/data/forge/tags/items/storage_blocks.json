@@ -10,7 +10,8 @@
     "#forge:storage_blocks/neutralite",
     "#forge:storage_blocks/platinum",
     "#forge:storage_blocks/platinum_gold",
-    "#forge:storage_blocks/verdant_steel",
+    "#forge:storage_blocks/twilight_bronze",
+    "#forge:storage_blocks/viridium",
     "#forge:storage_blocks/vermillium"
   ]
 }

@@ -1,0 +1,11 @@
+{
+  "text": "Molten twilight bronze shrouds you in the darkness of dusk while letting you see the light of dawn.",
+  "entity": [
+    "3.0 Fire Damage",
+    "7 seconds Invisibility",
+    "7 seconds Night Vision"
+  ],
+  "block": [
+    "Lingering cloud with 7 seconds Invisibility and 7 seconds Night Vision"
+  ]
+}

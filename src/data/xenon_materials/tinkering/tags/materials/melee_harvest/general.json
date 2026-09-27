@@ -1,10 +1,12 @@
 {
+  "replace": false,
   "values": [
-    "xenon_materials:verdant_steel",
+    "xenon_materials:viridium",
     "xenon_materials:soggy_paper",
     "xenon_materials:ferroshroom",
     "xenon_materials:hardlight",
     "xenon_materials:grimslime",
-    "xenon_materials:platinum_gold"
+    "xenon_materials:platinum_gold",
+    "xenon_materials:twilight_bronze"
   ]
 }

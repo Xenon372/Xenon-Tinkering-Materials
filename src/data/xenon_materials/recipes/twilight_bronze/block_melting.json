@@ -1,0 +1,10 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": { "item": "xenon_materials:twilight_bronze_block" },
+  "result": {
+    "fluid": "xenon_materials:molten_twilight_bronze",
+    "amount": 810
+  },
+  "temperature": 900,
+  "time": 180
+}

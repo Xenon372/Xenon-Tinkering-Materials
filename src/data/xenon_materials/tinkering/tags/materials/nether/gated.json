@@ -1,4 +1,5 @@
 {
+  "replace": false,
   "values": [
     "xenon_materials:vermillium",
     "xenon_materials:grimslime",
@@ -11,6 +12,7 @@
     "xenon_materials:platinum_gold",
     "xenon_materials:brimsteel",
     "xenon_materials:hardlight",
-    "xenon_materials:firelight_silk"
+    "xenon_materials:firelight_silk",
+    "xenon_materials:twilight_bronze"
   ]
 }

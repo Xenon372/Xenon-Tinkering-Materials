@@ -1,6 +1,7 @@
 {
+  "replace": false,
   "values": [
-    "xenon_materials:verdant_steel",
+    "xenon_materials:viridium",
     "xenon_materials:neutralite",
     "xenon_materials:vermillium",
     "xenon_materials:midday_bronze",

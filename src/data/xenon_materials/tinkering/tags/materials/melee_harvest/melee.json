@@ -1,4 +1,5 @@
 {
+  "replace": false,
   "values": [
     "xenon_materials:neutralite",
     "xenon_materials:vermillium",

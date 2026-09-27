@@ -19,7 +19,7 @@
       "melee_attack": 0.0
     },
     "tconstruct:limb": {
-      "accuracy": -0.3,
+      "accuracy": -0.25,
       "draw_speed": 0.15,
       "durability": 30,
       "velocity": 0.05
