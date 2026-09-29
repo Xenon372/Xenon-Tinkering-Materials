@@ -25,27 +25,22 @@
     "tconstruct:maille": {},
     "tconstruct:plating_helmet": {
       "armor": 2.0,
-      "durability": 363,
-      "toughness": 1.0
+      "durability": 363
     },
     "tconstruct:plating_chestplate": {
-      "armor": 7.0,
-      "durability": 528,
-      "toughness": 1.0
+      "armor": 6.0,
+      "durability": 528
     },
     "tconstruct:plating_leggings": {
       "armor": 5.0,
-      "durability": 495,
-      "toughness": 1.0
+      "durability": 495
     },
     "tconstruct:plating_boots": {
       "armor": 2.0,
-      "durability": 429,
-      "toughness": 1.0
+      "durability": 429
     },
     "tconstruct:plating_shield": {
-      "durability": 594,
-      "toughness": 1.0
+      "durability": 594
     },
     "joy_of_tinkering:barrel": {
       "durability": 935,

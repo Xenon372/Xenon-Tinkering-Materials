@@ -73,7 +73,6 @@
         }
       }
     },
-
     {
       "type": "tconstruct:conditional_power",
       "formula": [
@@ -148,7 +147,6 @@
         }
       }
     },
-
     {
       "type": "tconstruct:protection",
       "damage_source": "mantle:can_protect",
@@ -187,7 +185,6 @@
         }
       }
     },
-
     {
       "type": "tconstruct:attribute",
       "attribute": "minecraft:generic.movement_speed",

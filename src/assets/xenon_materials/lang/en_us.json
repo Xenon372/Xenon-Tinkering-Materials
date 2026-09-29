@@ -35,10 +35,18 @@
 
   "material.xenon_materials.neutralite": "Neutralite",
   "material.xenon_materials.neutralite.flavor": "True neutral alignment",
-  "material.xenon_materials.neutralite.encyclopedia": "Grants +1.6 damage in biomes with neutral temperatures.",
+  "material.xenon_materials.neutralite.encyclopedia": "Grants +1.25 damage in biomes with neutral temperatures.",
   "material.xenon_materials.neutralite.encyclopedia.ranged": "Grants +0.15 accuracy in biomes with neutral temperatures.",
   "material.xenon_materials.neutralite.encyclopedia.armor": "Reduces damage by 5% per level in biomes with neutral temperatures.",
-  
+
+  "modifier.xenon_materials.indifference": "Indifference",
+  "modifier.xenon_materials.indifference.flavor": "Couldn't care less",
+  "modifier.xenon_materials.indifference.description": "Tool does more damage and is more accurate in neutral temperatures",
+  "modifier.xenon_materials.indifference.attack_damage": "Indifferent Damage",
+  "modifier.xenon_materials.indifference.projectile_damage": "Indifferent Power",
+  "modifier.xenon_materials.indifference.accuracy": "Indifferent Accuracy",
+  "modifier.xenon_materials.indifference.resistance": "Indifferent Resistance",
+
   "block.xenon_materials.vermillium_block": "Vermillium Block",
   "item.xenon_materials.vermillium_ingot": "Vermillium Ingot",
   "item.xenon_materials.vermillium_nugget": "Vermillium Nugget",

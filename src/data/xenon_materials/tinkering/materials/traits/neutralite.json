@@ -1,10 +1,5 @@
 {
   "default": [
-    { "name": "tconstruct:invariant", "level": 1 }
-  ],
-  "perStat": {
-    "joy_of_tinkering:bullet_casing": [
-      { "name": "tconstruct:invariant", "level": 1 }
-    ]
-  }
+    { "name": "xenon_materials:indifference", "level": 1 }
+  ]
 }
