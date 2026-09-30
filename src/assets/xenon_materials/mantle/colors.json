@@ -11,6 +11,7 @@
 		"nightstalker":  "#6A4C79",
 		"dexterous":  "#6A4C79",
 		"diurnal":  "#E18A1E",
+		"daybreak":  "#E18A1E",
 		"soilshield":  "#C7A877",
 		"earth_eater":  "#C7A877",
 		"sporeshot":  "#C7A877",
@@ -30,7 +31,7 @@
 		"hyperthermic":   "#414553",
 		"firewall":   "#414553",
 		"oscillating":   "#5987C8",
-		"crepuscular":   "#008FE9"
+		"crepuscular":   "#7FB0FF"
   },
   "material.xenon_materials": {
 	  "viridium":    "#44DD4A",
@@ -59,6 +60,6 @@
 	  "hardlight.venom":   "#8EC859",
 	  "hardlight.liquid":   "#FFD658",
 	  "firelight_silk":   "#FF6300",
-	  "twilight_bronze":   "#008FE9"
+	  "twilight_bronze":   "#7FB0FF"
   }
 }

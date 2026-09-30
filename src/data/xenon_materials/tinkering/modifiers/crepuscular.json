@@ -123,6 +123,7 @@
         "/",
         "+",
         "/",
+        "non-negative",
         "$level",
         "*",
         "$multiplier",

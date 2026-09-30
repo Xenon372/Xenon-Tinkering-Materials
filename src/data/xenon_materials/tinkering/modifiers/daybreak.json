@@ -1,0 +1,81 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:conditional_stat",
+      "formula": [
+        "$sky",
+        "$block",
+        "max",
+        0.01,
+        "*",
+        "$level",
+        "*",
+        "$value",
+        "+"
+      ],
+      "percent": false,
+      "stat": "tconstruct:accuracy",
+      "variables": {
+        "block": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:light",
+          "fallback": 0.0,
+          "light_layer": "block"
+        },
+        "sky": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:light",
+          "fallback": 0.0,
+          "light_layer": "sky"
+        }
+      }
+    },
+    {
+      "type": "tconstruct:conditional_stat",
+      "formula": [
+        "$sky",
+        "$block",
+        "max",
+        0.02,
+        "*",
+        3.0,
+        "/",
+        "$level",
+        "*",
+        "$value",
+        "+"
+      ],
+      "percent": false,
+      "stat": "tconstruct:knockback_resistance",
+      "variables": {
+        "block": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:light",
+          "fallback": 0.0,
+          "light_layer": "block"
+        },
+        "sky": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:light",
+          "fallback": 0.0,
+          "light_layer": "sky"
+        }
+      }
+    },
+    {
+      "type": "tconstruct:lightspeed_attribute",
+      "attribute": "minecraft:generic.knockback_resistance",
+      "damage_chance": 0.0,
+      "light_layer": "block",
+      "min_light": 5,
+      "operation": "addition",
+      "per_level": 1.0E-3,
+      "tool": {
+        "type": "mantle:tag",
+        "tag": "tconstruct:modifiable/armor"
+      }
+    }
+  ],
+  "show_in_tooltips": "always"
+}

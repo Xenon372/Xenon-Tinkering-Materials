@@ -115,7 +115,9 @@
         "$level",
         "*",
         0.5,
-        "*"
+        "*",
+        "$damage",
+        "+"
       ],
       "percent": false,
       "variables": {

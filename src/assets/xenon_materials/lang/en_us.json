@@ -148,13 +148,19 @@
   "material.xenon_materials.midday_bronze": "Midday Bronze",
   "material.xenon_materials.midday_bronze.flavor": "As opposed to midnight bronze",
   "material.xenon_materials.midday_bronze.encyclopedia": "Grants +2 attack damage per level if you've slept within the last 60 minutes, 0 boost afterwards.",
-  "material.xenon_materials.midday_bronze.encyclopedia.ranged": "Grants +0.08 velocity per level at full durability, 0 boost below 50% durability.",
-  "material.xenon_materials.midday_bronze.encyclopedia.armor": "Boosts toughness by 2 per level when at full durability, but boost drops to 0 below 50% durability.",
+  "material.xenon_materials.midday_bronze.encyclopedia.ranged": "Grants up to +0.15 accuracy per level in full sunlight.",
+  "material.xenon_materials.midday_bronze.encyclopedia.armor": "Boosts knockback resistance by up to 10% per level in full sunlight.",
   
   "modifier.xenon_materials.diurnal": "Diurnal",
   "modifier.xenon_materials.diurnal.flavor": "Well-rested",
   "modifier.xenon_materials.diurnal.description": "Tool deals more damage if you've slept recently",
   "modifier.xenon_materials.diurnal.attack_damage": "Max Diurnal Damage",
+
+  "modifier.xenon_materials.daybreak": "Daybreak",
+  "modifier.xenon_materials.daybreak.flavor": "Rise with the sun",
+  "modifier.xenon_materials.daybreak.description": "Tool is more accurate in full sunlight",
+  "modifier.xenon_materials.daybreak.knockback_resistance": "Knockback Resistance",
+  "modifier.xenon_materials.daybreak.accuracy": "Accuracy",
 
   "material.xenon_materials.fungal": "Fungus",
   "material.xenon_materials.fungal.red": "Red Fungus",
