@@ -202,7 +202,7 @@
   
   "material.xenon_materials.jewelslime": "Jewelslime",
   "material.xenon_materials.jewelslime.flavor": "Sparkly!",
-  "material.xenon_materials.jewelslime.encyclopedia": "Increases max health by half a heart per level for every 150 points of overslime capacity. If overslime capacity is less than 150, it increases max health by half a heart per level instead.",
+  "material.xenon_materials.jewelslime.encyclopedia": "Increases max health by half a heart per level for every 150 points of overslime capacity, up to a maximum of 2.5 hearts per level. If overslime capacity is less than 150, it increases max health by half a heart per level instead.",
   
   "modifier.xenon_materials.overheart": "Overheart",
   "modifier.xenon_materials.overheart.flavor": "[placeholder flavor text]",
@@ -439,11 +439,5 @@
   "modifier.xenon_materials.crepuscular.mining_speed": "Crepuscular Mining",
   "modifier.xenon_materials.crepuscular.projectile_damage": "Crepuscular Power",
   "modifier.xenon_materials.crepuscular.draw_speed": "Crepuscular Speed",
-  "modifier.xenon_materials.crepuscular.resistance": "Protection",
-
-  "__comment": "Unused (for now)",
-  "modifier.xenon_materials.dexterous": "Dexterous (Unused)",
-  "modifier.xenon_materials.dexterous.flavor": "Fast fingers (how did you find this?)",
-  "modifier.xenon_materials.dexterous.description": "Armor hinders movement speed less when using items, +7.5% per level.",
-  "modifier.xenon_materials.dexterous.draw_speed": "Dexterous Speed"
+  "modifier.xenon_materials.crepuscular.resistance": "Protection"
 }

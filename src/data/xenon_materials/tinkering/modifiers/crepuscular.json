@@ -202,10 +202,10 @@
       "type": "tconstruct:lightspeed_attribute",
       "attribute": "minecraft:generic.movement_speed",
       "damage_chance": 0.0,
-      "light_layer": "block",
-      "min_light": 8,
+      "light_layer": "sky",
+      "min_light": 7,
       "operation": "multiply_total",
-      "per_level": -1.0E-2,
+      "per_level": -2.0E-2,
       "tool": {
         "type": "mantle:tag",
         "tag": "tconstruct:modifiable/armor"

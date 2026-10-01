@@ -12,7 +12,11 @@
         "$level",
         "*",
         "$level",
-        "max"
+        "max",
+        5,
+        "$level",
+        "*",
+        "min"
       ],
       "operation": "addition",
       "slots": [
