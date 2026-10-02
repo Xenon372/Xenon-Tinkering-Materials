@@ -18,6 +18,10 @@
         "$value",
         "+"
       ],
+      "tool": {
+        "type": "mantle:tag",
+        "tag": "tconstruct:modifiable/armor"
+      },
       "percent": false,
       "stat": "tconstruct:velocity",
       "variables": {
@@ -51,6 +55,10 @@
         "$protection",
         "+"
       ],
+      "tool": {
+        "type": "mantle:tag",
+        "tag": "tconstruct:modifiable/armor"
+      },
       "variables": {
         "block": {
           "type": "tconstruct:entity",

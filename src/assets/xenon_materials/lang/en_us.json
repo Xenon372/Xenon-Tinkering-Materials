@@ -158,7 +158,7 @@
 
   "modifier.xenon_materials.daybreak": "Daybreak",
   "modifier.xenon_materials.daybreak.flavor": "Rise with the sun",
-  "modifier.xenon_materials.daybreak.description": "Tool is more accurate in full sunlight",
+  "modifier.xenon_materials.daybreak.description": "Tool is more accurate and armor reduces knockback in full sunlight",
   "modifier.xenon_materials.daybreak.knockback_resistance": "Knockback Resistance",
   "modifier.xenon_materials.daybreak.accuracy": "Accuracy",
 
