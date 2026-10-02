@@ -205,7 +205,7 @@
   "material.xenon_materials.jewelslime.encyclopedia": "Increases max health by half a heart per level for every 150 points of overslime capacity, up to a maximum of 2.5 hearts per level. If overslime capacity is less than 150, it increases max health by half a heart per level instead.",
   
   "modifier.xenon_materials.overheart": "Overheart",
-  "modifier.xenon_materials.overheart.flavor": "[placeholder flavor text]",
+  "modifier.xenon_materials.overheart.flavor": "Now includes all the colours of the spectrum!",
   "modifier.xenon_materials.overheart.description": "Grants additional health based on overslime capacity",
   
   "block.xenon_materials.grimslime_block": "Grimslime Block",

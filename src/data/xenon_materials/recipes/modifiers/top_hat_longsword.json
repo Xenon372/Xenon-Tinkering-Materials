@@ -1,0 +1,21 @@
+{
+  "type": "tconstruct:modifier",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "construct_arsenal"
+    }
+  ],
+  "allow_crystal": true,
+  "inputs": [
+    {
+      "item": "xenon_materials:bluehat_nugget"
+    },
+    {
+      "tag": "minecraft:wool"
+    }
+  ],
+  "level": 1,
+  "result": "xenon_materials:top_hat",
+  "tools": { "item": "construct_arsenal:longsword" }
+}
