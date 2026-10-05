@@ -14,7 +14,11 @@
         "percent_clamp",
         "$level",
         "*",
-        2.5,
+        2.0,
+        2.0,
+        3.0,
+        "/",
+        "+",
         "*",
         "$multiplier",
         "*",
@@ -59,6 +63,5 @@
         }
       }
     }
-  ],
-  "show_in_tooltips": "always"
+  ]
 }

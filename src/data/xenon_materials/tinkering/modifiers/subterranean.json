@@ -42,7 +42,7 @@
         "/",
         "$level",
         "*",
-        0.75,
+        0.15,
         "*",
 		"$value",
 		"+"
@@ -100,35 +100,6 @@
         "type": "mantle:tag",
         "tag": "tconstruct:modifiable/armor"
       }
-    },
-    {
-      "type": "tconstruct:conditional_power",
-      "formula": [
-        64,
-        "$height",
-        -64,
-        "max",
-        "-",
-        "non-negative",
-        64,
-        "/",
-        "$level",
-        "*",
-        0.5,
-        "*",
-        "$damage",
-        "+"
-      ],
-      "percent": false,
-      "variables": {
-        "height": {
-          "type": "tconstruct:entity",
-          "entity_type": "tconstruct:height",
-          "fallback": 0.0,
-          "which": "target"
-        }
-      }
     }
-  ],
-  "show_in_tooltips": "always"
+  ]
 }

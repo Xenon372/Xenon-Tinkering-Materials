@@ -2,15 +2,15 @@
   "level_display": "tconstruct:default",
   "modules": [
     {
-      "type": "tconstruct:trait",
-      "fixed_level": false,
-      "level": 1,
-      "name": "xenon_materials:helmbreaker"
-    },
-    {
       "type": "tconstruct:conditional_melee_damage",
       "formula": [
+        "$attacker_hat",
         0.05,
+        "*",
+        "$target_hat",
+        0.03,
+        "*",
+        "+",
         "$level",
         "*",
 		1,
@@ -19,26 +19,75 @@
         "*"
       ],
       "percent": true,
-      "target": {
-        "type": "mantle:tag",
-        "tag": "xenon_materials:hat_wearers"
+      "variables": {
+        "attacker_hat": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:equipment_count",
+          "fallback": 1,
+          "slots": [
+            "head"
+          ],
+          "which": "attacker"
+        },
+        "target_hat": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:equipment_count",
+          "fallback": 1,
+          "slots": [
+            "head"
+          ],
+          "which": "target"
+        }
+      }
+    },
+    {
+      "type": "tconstruct:conditional_stat",
+      "formula": [
+        "$hat",
+        0.05,
+        "*",
+        "$level",
+        "*",
+        "$value",
+        "+"
+      ],
+      "percent": false,
+      "stat": "tconstruct:projectile_damage",
+      "variables": {
+        "hat": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:equipment_count",
+          "fallback": 1,
+          "slots": [
+            "head"
+          ],
+          "which": "attacker"
+        }
       }
     },
     {
       "type": "tconstruct:conditional_power",
       "formula": [
-        0.72,
+        "$hat",
+        0.025,
+        "*",
         "$level",
         "*",
         "$damage",
         "+"
       ],
       "percent": false,
-      "target": {
-        "type": "mantle:tag",
-        "tag": "xenon_materials:hat_wearers"
+      "variables": {
+        "hat": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:equipment_count",
+          "fallback": 1,
+          "slots": [
+            "head"
+          ],
+          "which": "target"
+        }
       }
     }
-  ],
-  "show_in_tooltips": "always"
+  ]
 }

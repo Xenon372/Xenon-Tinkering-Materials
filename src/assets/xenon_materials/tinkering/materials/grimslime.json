@@ -11,12 +11,12 @@
         "type": "tconstruct:grey_to_color",
         "palette": [
           { "grey": 0,   "color": "FF000000" },
-          { "grey": 63,  "color": "FF2B1306" },
-          { "grey": 102, "color": "FF381A09" },
-          { "grey": 140, "color": "FF622B13" },
-          { "grey": 178, "color": "FF763512" },
-          { "grey": 216, "color": "FF9E4416" },
-          { "grey": 255, "color": "FF995432" }
+          { "grey": 63,  "color": "FF460000" },
+          { "grey": 102, "color": "FF7D2300" },
+          { "grey": 140, "color": "FF963C0E" },
+          { "grey": 178, "color": "FF9E4416" },
+          { "grey": 216, "color": "FFBB6133" },
+          { "grey": 255, "color": "FFD07648" }
         ]
       }
     },

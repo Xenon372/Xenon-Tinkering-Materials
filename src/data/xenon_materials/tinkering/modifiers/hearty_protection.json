@@ -15,8 +15,10 @@
         "percent_clamp",
         "$level",
         "*",
-        2.5,
+        2.0,
         "*",
+        0.05,
+        "+",
         "$protection",
         "+"
       ],
@@ -29,6 +31,5 @@
         }
       }
     }
-  ],
-  "show_in_tooltips": "always"
+  ]
 }

@@ -10,7 +10,7 @@
       "formula": [
         "$armor",
         "ceil",
-		0.08,
+		0.04,
         "*",
         "$level",
         "*",
@@ -55,6 +55,5 @@
         }
       }
     }
-  ],
-  "show_in_tooltips": "always"
+  ]
 }

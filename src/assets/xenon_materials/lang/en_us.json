@@ -271,20 +271,15 @@
 
   "material.xenon_materials.bluehat": "Bluehat",
   "material.xenon_materials.bluehat.flavor": "It's blue!",
-  "material.xenon_materials.bluehat.encyclopedia": "Grants +5% attack damage per level against anything with a hat or helmet.",
-  "material.xenon_materials.bluehat.encyclopedia.ranged": "Grants +0.3 damage per level against hat-wearing mobs.",
+  "material.xenon_materials.bluehat.encyclopedia": "Grants +5% attack damage per level if you're wearing a helmet, and another +3% attack damage per level if the target is also wearing a helmet.",
+  "material.xenon_materials.bluehat.encyclopedia.ranged": "Projectiles gain +0.5 damage per level if you're wearing a helmet, and +0.25 damage per level if the target is wearing a helmet.",
   "material.xenon_materials.bluehat.encyclopedia.armor": "Grants +1 safe fall distance and +5% movement speed per level. Boots also grant 1 extra jump.",
   
   "modifier.xenon_materials.antihat": "Anti-Hat",
   "modifier.xenon_materials.antihat.flavor": "There can only be one hat wearer!",
-  "modifier.xenon_materials.antihat.description": "Tool deals more damage against hat wearers",
+  "modifier.xenon_materials.antihat.description": "Tool deals more damage if you or the target is wearing a hat",
   "modifier.xenon_materials.antihat.attack_damage": "Anti-Hat Damage",
   "modifier.xenon_materials.antihat.projectile_damage": "Anti-Hat Power",
-
-  "modifier.xenon_materials.helmbreaker": "Helmbreaker",
-  "modifier.xenon_materials.helmbreaker.description": "Tool deals more damage against helmet wearers",
-  "modifier.xenon_materials.helmbreaker.attack_damage": "Helmbreaker Damage",
-  "modifier.xenon_materials.helmbreaker.projectile_damage": "Helmbreaker Power",
   
   "modifier.xenon_materials.platformer": "Platformer",
   "modifier.xenon_materials.platformer.flavor": "Collect the coins!",
@@ -345,10 +340,9 @@
   
   "material.xenon_materials.deepbrass": "Deepbrass",
   "material.xenon_materials.deepbrass.flavor": "Disclaimer: not actually made of brass.",
-  "material.xenon_materials.deepbrass.encyclopedia": "Grants bonus damage at lower depth, +1.6 per 64 blocks below 64.",
-  "material.xenon_materials.deepbrass.encyclopedia.ranged": "Grants bonus draw speed at lower depth, +0.75 per 64 blocks below 64.",
-  "material.xenon_materials.deepbrass.encyclopedia.armor": "Armor provides +5% knockback resistance and takes reduced damage at lower depth, +10% per 64 blocks below 64.",
-  "material.xenon_materials.deepbrass.encyclopedia.ammo": "Grants bonus damage at lower depth, +0.5 per 64 blocks below 64.",
+  "material.xenon_materials.deepbrass.encyclopedia": "Grants bonus damage at lower depth, up to +1.6 per level per 64 blocks below 64.",
+  "material.xenon_materials.deepbrass.encyclopedia.ranged": "Grants bonus draw speed at lower depth, up to +0.75 per level per 64 blocks below 64.",
+  "material.xenon_materials.deepbrass.encyclopedia.armor": "Armor provides +5% knockback resistance and takes reduced damage at lower depth, up to +10% per level per 64 blocks below 64.",
   
   "modifier.xenon_materials.subterranean": "Subterranean",
   "modifier.xenon_materials.subterranean.flavor": "Subsurface dwelling",
@@ -356,7 +350,6 @@
   "modifier.xenon_materials.subterranean.attack_damage": "Subterranean Damage",
   "modifier.xenon_materials.subterranean.draw_speed": "Subterranean Speed",
   "modifier.xenon_materials.subterranean.reinforced": "Subterranean Reinforcement",
-  "modifier.xenon_materials.subterranean.projectile_damage": "Subterranean Power",
   
   "block.xenon_materials.brimsteel_block": "Brimsteel Block",
   "item.xenon_materials.brimsteel_ingot": "Brimsteel Ingot",
@@ -400,7 +393,7 @@
   "material.xenon_materials.hardlight.venom": "Venomlight",
   "material.xenon_materials.hardlight.liquid": "Liquidlight",
   "material.xenon_materials.hardlight.flavor": "Not quite a liquid",
-  "material.xenon_materials.hardlight.encyclopedia": "Grants +8% damage against armored targets and up to +10 mining speed on the hardest blocks, such as obsidian.",
+  "material.xenon_materials.hardlight.encyclopedia": "Grants +4% damage against armored targets and up to +10 mining speed on the hardest blocks, such as obsidian.",
   
   "modifier.xenon_materials.oscillating": "Oscillating",
   "modifier.xenon_materials.oscillating.flavor": "High frequency!",

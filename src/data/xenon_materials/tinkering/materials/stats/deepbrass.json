@@ -58,7 +58,6 @@
       "draw_speed": -0.1,
       "max_ammo": 5.0,
       "projectile_damage": 2.0
-    },
-    "joy_of_tinkering:bullet_casing": {}
+    }
   }
 }
