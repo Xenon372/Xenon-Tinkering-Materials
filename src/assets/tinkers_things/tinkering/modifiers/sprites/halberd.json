@@ -1,0 +1,8 @@
+{
+  "modifiers": {
+    "xenon_materials:top_hat": {
+      "texture": "tinkers_things:item/tool/halberd/modifiers/xenon_materials_top_hat",
+      "texture_large": "tinkers_things:item/tool/halberd/large/modifiers/xenon_materials_top_hat"
+    }
+  }
+}

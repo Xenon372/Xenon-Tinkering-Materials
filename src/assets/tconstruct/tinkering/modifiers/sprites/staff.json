@@ -1,0 +1,8 @@
+{
+  "modifiers": {
+    "xenon_materials:top_hat": {
+      "texture": "tconstruct:item/tool/staff/modifiers/xenon_materials_top_hat",
+      "texture_large": "tconstruct:item/tool/staff/large/modifiers/xenon_materials_top_hat"
+    }
+  }
+}

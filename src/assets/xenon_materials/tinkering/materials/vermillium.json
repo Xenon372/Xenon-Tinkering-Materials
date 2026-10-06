@@ -8,9 +8,9 @@
         "type": "tconstruct:grey_to_color",
         "palette": [
           { "grey": 0,   "color": "FF000000" },
-          { "grey": 63,  "color": "FF3D0F21" },
-          { "grey": 102, "color": "FF53142D" },
-          { "grey": 140, "color": "FF621D38" },
+          { "grey": 63,  "color": "FF1E0710" },
+          { "grey": 102, "color": "FF3D0F21" },
+          { "grey": 140, "color": "FF53142D" },
           { "grey": 178, "color": "FF7E2846" },
           { "grey": 216, "color": "FFA04664" },
           { "grey": 255, "color": "FFD28D9C" }

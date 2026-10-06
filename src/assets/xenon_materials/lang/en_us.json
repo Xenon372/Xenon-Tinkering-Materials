@@ -61,7 +61,7 @@
   "material.xenon_materials.vermillium": "Vermillium",
   "material.xenon_materials.vermillium.flavor": "Closer to violet than vermillion",
   "material.xenon_materials.vermillium.encyclopedia": "Grants +0.25 damage per level per health above 14.",
-  "material.xenon_materials.vermillium.encyclopedia.ranged": "Grants +0.1 power per level per health above 14.",
+  "material.xenon_materials.vermillium.encyclopedia.ranged": "Grants +0.125 power per level per health above 14.",
   "material.xenon_materials.vermillium.encyclopedia.armor": "Grants 1% protection per level per health above 14.",
   
   "modifier.xenon_materials.bulwark": "Bulwark",
