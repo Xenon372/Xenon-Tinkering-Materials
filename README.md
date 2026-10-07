@@ -61,7 +61,7 @@ https://www.curseforge.com/minecraft/mc-mods/xenons-tinkering-materials
 * **Platinum Gold:** <img width=32 src="https://github.com/Xenon372/Image-Repository/blob/main/Xenon's%20Tinkering%20Materials/platinum_gold_ingot.png">
 	- Hardforged: Makes the tool harder to repair, but reinforces it when durability is low.
 	
-* **Pykrete:** <img width=32 src="https://github.com/Xenon372/Image-Repository/blob/main/Xenon's%20Tinkering%20Materials/pykrete_bat.png">
+* **Pykrete:** <img width=32 src="https://github.com/Xenon372/Image-Repository/blob/main/Xenon's%20Tinkering%20Materials/pykrete_bar.png">
 	- Frostborn (Melee, Ranged, Armor): Grants increased damage in cold biomes.
 	- Frigid (Ammo): Deals increased damage against fire immune mobs.
 	
