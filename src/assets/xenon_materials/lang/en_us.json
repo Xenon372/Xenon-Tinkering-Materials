@@ -60,13 +60,13 @@
 
   "material.xenon_materials.vermillium": "Vermillium",
   "material.xenon_materials.vermillium.flavor": "Closer to violet than vermillion",
-  "material.xenon_materials.vermillium.encyclopedia": "Grants +0.25 damage per level per health above 14.",
-  "material.xenon_materials.vermillium.encyclopedia.ranged": "Grants +0.125 power per level per health above 14.",
+  "material.xenon_materials.vermillium.encyclopedia": "Grants +0.4 damage per level per health above 20, up to +2 damage per level.",
+  "material.xenon_materials.vermillium.encyclopedia.ranged": "Grants +0.2 power per level per health above 20, up to +1 damage per level.",
   "material.xenon_materials.vermillium.encyclopedia.armor": "Grants 1% protection per level per health above 14.",
   
   "modifier.xenon_materials.bulwark": "Bulwark",
   "modifier.xenon_materials.bulwark.flavor": "High-powered strength!",
-  "modifier.xenon_materials.bulwark.description": "Tool does more damage when the holder's health is high",
+  "modifier.xenon_materials.bulwark.description": "Tool does more damage when the holder's max health is high",
   "modifier.xenon_materials.bulwark.attack_damage": "Bulwark Damage",
   "modifier.xenon_materials.bulwark.projectile_damage": "Bulwark Power",
   "modifier.xenon_materials.hearty_protection": "Hearty Protection",

@@ -72,7 +72,7 @@ https://www.curseforge.com/minecraft/mc-mods/xenons-tinkering-materials
 	- Crepuscular: Grants increased damage in the light, boosts speed in the dark.
 	
 * **Vermillium:** <img width=32 src="https://github.com/Xenon372/Image-Repository/blob/main/Xenon's%20Tinkering%20Materials/vermillium_ingot.png">
-	- Bulwark (Melee): Grants increased damage at high health.
+	- Bulwark (Melee): Grants increased damage when max health exceeds 10 hearts.
 	- Hearty Protection (Armor): Grants increased protection at high health.
 	
 * **Viridium:** <img width=32 src="https://github.com/Xenon372/Image-Repository/blob/main/Xenon's%20Tinkering%20Materials/viridium_ingot.png">
