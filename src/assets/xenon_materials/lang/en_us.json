@@ -77,7 +77,7 @@
   "item.xenon_materials.soggy_paper": "Soggy Paper",
   "material.xenon_materials.soggy_paper": "Soggy Paper",
   "material.xenon_materials.soggy_paper.flavor": "Flimsy and malleable",
-  "material.xenon_materials.soggy_paper.encyclopedia": "Reduces attack damage by -7.5% and mining speed by -15% per level but grants two upgrade slots.",
+  "material.xenon_materials.soggy_paper.encyclopedia": "Reduces attack damage and mining speed by -10% per level but grants two upgrade slots.",
   "material.xenon_materials.soggy_paper.encyclopedia.ranged": "Reduces projectile power by -0.25 per level but grants two upgrade slots.",
   "material.xenon_materials.soggy_paper.encyclopedia.armor": "Reduces durability by -15% and protection by -5% per level but grants two upgrade slots.",
   

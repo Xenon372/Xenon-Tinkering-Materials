@@ -2,7 +2,7 @@
   "stats": {
     "tconstruct:binding": {},
     "tconstruct:grip": {
-      "accuracy": -0.2,
+      "accuracy": 0.1,
       "durability": -0.25,
       "melee_damage": 0.0
     },
@@ -19,10 +19,10 @@
       "melee_attack": 0.0
     },
     "tconstruct:limb": {
-      "accuracy": -0.25,
+      "accuracy": 0.1,
       "draw_speed": 0.15,
       "durability": 30,
-      "velocity": 0.05
+      "velocity": -0.1
     },
     "tconstruct:maille": {},
     "tconstruct:cuirass": {},

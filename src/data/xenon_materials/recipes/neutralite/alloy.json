@@ -2,8 +2,8 @@
   "type": "tconstruct:alloy",
   "inputs": [
     { "tag": "tconstruct:molten_iron",     "amount":   90 },
-    { "tag": "tconstruct:molten_copper",     "amount":   90 },
-    { "tag": "tconstruct:molten_glass",   "amount":   250 }
+    { "fluid": "minecraft:lava",     "amount":   250 },
+    { "fluid": "tconstruct:powdered_snow",   "amount":   250 }
   ],
   "result": {
     "fluid": "xenon_materials:molten_neutralite",

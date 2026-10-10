@@ -2,9 +2,9 @@
   "stats": {
     "tconstruct:binding": {},
     "tconstruct:grip": {
-      "accuracy": 0.15,
+      "accuracy": 0.1,
       "durability": 0.1,
-      "melee_damage": 2.5
+      "melee_damage": 2.25
     },
     "tconstruct:handle": {
       "durability": 0.1,
