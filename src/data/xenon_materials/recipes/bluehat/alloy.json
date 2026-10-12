@@ -3,7 +3,7 @@
   "inputs": [
     { "tag": "tconstruct:molten_cobalt",       "amount":   90 },
     { "tag": "tconstruct:sky_slime",           "amount":   250 },
-    { "tag": "tconstruct:molten_slimesteel",   "amount":   250 },
+    { "tag": "tconstruct:molten_slimesteel",   "amount":   90 },
     { "fluid": "minecraft:water",              "amount":   500 }
   ],
   "result": {
