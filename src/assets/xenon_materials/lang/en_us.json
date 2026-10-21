@@ -202,7 +202,7 @@
   
   "material.xenon_materials.jewelslime": "Jewelslime",
   "material.xenon_materials.jewelslime.flavor": "Sparkly!",
-  "material.xenon_materials.jewelslime.encyclopedia": "Increases max health by half a heart per level for every 150 points of overslime capacity, up to a maximum of 2.5 hearts per level. If overslime capacity is less than 150, it increases max health by half a heart per level instead.",
+  "material.xenon_materials.jewelslime.encyclopedia": "Increases max health by half a heart per level for every 150 points of overslime capacity, up to 2.5 hearts per level.",
   
   "modifier.xenon_materials.overheart": "Overheart",
   "modifier.xenon_materials.overheart.flavor": "Now includes all the colours of the spectrum!",
