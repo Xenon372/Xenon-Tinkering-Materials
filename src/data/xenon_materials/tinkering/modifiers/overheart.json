@@ -6,7 +6,7 @@
       "attribute": "minecraft:generic.max_health",
       "formula": [
         "$overslime",
-        150,
+        140,
         "/",
         "floor",
         "$level",

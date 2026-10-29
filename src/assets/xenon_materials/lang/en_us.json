@@ -60,8 +60,8 @@
 
   "material.xenon_materials.vermillium": "Vermillium",
   "material.xenon_materials.vermillium.flavor": "Closer to violet than vermillion",
-  "material.xenon_materials.vermillium.encyclopedia": "Grants increased damage per health above 20, up to +2 damage times the modifier level.",
-  "material.xenon_materials.vermillium.encyclopedia.ranged": "Grants increased power per health above 20, up to +1 damage times the modifier level.",
+  "material.xenon_materials.vermillium.encyclopedia": "Grants increased damage per health above 20, up to +1.6 damage times the modifier level.",
+  "material.xenon_materials.vermillium.encyclopedia.ranged": "Grants increased power per health above 20, up to +0.75 damage times the modifier level.",
   "material.xenon_materials.vermillium.encyclopedia.armor": "Grants 1% protection per level per health above 14, up to 5% protection at 20 health.",
   
   "modifier.xenon_materials.bulwark": "Bulwark",
@@ -202,7 +202,7 @@
   
   "material.xenon_materials.jewelslime": "Jewelslime",
   "material.xenon_materials.jewelslime.flavor": "Sparkly!",
-  "material.xenon_materials.jewelslime.encyclopedia": "Increases max health by half a heart per level for every 150 points of overslime capacity, up to 2.5 hearts per level.",
+  "material.xenon_materials.jewelslime.encyclopedia": "Increases max health by half a heart per level for every 140 points of overslime capacity, up to 2.5 hearts per level.",
   
   "modifier.xenon_materials.overheart": "Overheart",
   "modifier.xenon_materials.overheart.flavor": "Now includes all the colours of the spectrum!",
