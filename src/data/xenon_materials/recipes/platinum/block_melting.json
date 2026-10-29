@@ -2,7 +2,7 @@
   "type": "tconstruct:melting",
   "ingredient": { "item": "xenon_materials:platinum_block" },
   "result": {
-    "fluid": "xenon_materials:molten_platinum",
+    "fluid": "tconstruct:molten_platinum",
     "amount": 810
   },
   "temperature": 970,

@@ -3,7 +3,7 @@
   "input": "xenon_materials:platinum",
   "temperature": 970,
   "result": {
-    "fluid": "xenon_materials:molten_platinum",
+    "fluid": "tconstruct:molten_platinum",
     "amount": 90
   }
 }

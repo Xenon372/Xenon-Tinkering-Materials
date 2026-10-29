@@ -1,7 +1,7 @@
 {
   "type": "tconstruct:alloy",
   "inputs": [
-    { "tag": "xenon_materials:molten_platinum",     "amount":   90 },
+    { "tag": "tconstruct:molten_platinum",     "amount":   90 },
     { "tag": "tconstruct:molten_gold",   "amount":   180 }
   ],
   "result": {

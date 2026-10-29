@@ -60,9 +60,9 @@
 
   "material.xenon_materials.vermillium": "Vermillium",
   "material.xenon_materials.vermillium.flavor": "Closer to violet than vermillion",
-  "material.xenon_materials.vermillium.encyclopedia": "Grants +0.4 damage per level per health above 20, up to +2 damage per level.",
-  "material.xenon_materials.vermillium.encyclopedia.ranged": "Grants +0.2 power per level per health above 20, up to +1 damage per level.",
-  "material.xenon_materials.vermillium.encyclopedia.armor": "Grants 1% protection per level per health above 14.",
+  "material.xenon_materials.vermillium.encyclopedia": "Grants increased damage per health above 20, up to +2 damage times the modifier level.",
+  "material.xenon_materials.vermillium.encyclopedia.ranged": "Grants increased power per health above 20, up to +1 damage times the modifier level.",
+  "material.xenon_materials.vermillium.encyclopedia.armor": "Grants 1% protection per level per health above 14, up to 5% protection at 20 health.",
   
   "modifier.xenon_materials.bulwark": "Bulwark",
   "modifier.xenon_materials.bulwark.flavor": "High-powered strength!",
@@ -130,7 +130,7 @@
   
   "modifier.xenon_materials.nightstalker": "Nightstalker",
   "modifier.xenon_materials.nightstalker.flavor": "Lurking in the darkness",
-  "modifier.xenon_materials.nightstalker.description": "Tool draws faster and protects more in the dark and at night",
+  "modifier.xenon_materials.nightstalker.description": "Tool fires faster and protects more in the dark and at night",
   "modifier.xenon_materials.nightstalker.velocity": "Nightstalker Velocity",
   "modifier.xenon_materials.nightstalker.resistance": "Protection",
 
@@ -147,7 +147,7 @@
 
   "material.xenon_materials.midday_bronze": "Midday Bronze",
   "material.xenon_materials.midday_bronze.flavor": "As opposed to midnight bronze",
-  "material.xenon_materials.midday_bronze.encyclopedia": "Grants +2 attack damage per level if you've slept within the last 60 minutes, 0 boost afterwards.",
+  "material.xenon_materials.midday_bronze.encyclopedia": "Grants +2 attack damage per level if you've slept recently, gradually decreases to 0 over the course of 60 minutes.",
   "material.xenon_materials.midday_bronze.encyclopedia.ranged": "Grants up to +0.15 accuracy per level in full sunlight.",
   "material.xenon_materials.midday_bronze.encyclopedia.armor": "Boosts knockback resistance by up to 10% per level in full sunlight.",
   
@@ -393,7 +393,7 @@
   "material.xenon_materials.hardlight.venom": "Venomlight",
   "material.xenon_materials.hardlight.liquid": "Liquidlight",
   "material.xenon_materials.hardlight.flavor": "Not quite a liquid",
-  "material.xenon_materials.hardlight.encyclopedia": "Grants +4% damage against armored targets and up to +10 mining speed on the hardest blocks, such as obsidian.",
+  "material.xenon_materials.hardlight.encyclopedia": "Grants +5% damage against armored targets and up to +10 mining speed on the hardest blocks, such as obsidian.",
   
   "modifier.xenon_materials.oscillating": "Oscillating",
   "modifier.xenon_materials.oscillating.flavor": "High frequency!",

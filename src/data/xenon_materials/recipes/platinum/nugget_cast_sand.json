@@ -3,7 +3,7 @@
   "cast": { "tag": "tconstruct:casts/single_use/nugget" },
   "cast_consumed": true,
   "fluid": {
-    "fluid": "xenon_materials:molten_platinum",
+    "fluid": "tconstruct:molten_platinum",
     "amount": 10
   },
   "result": "xenon_materials:platinum_nugget",
