@@ -1,0 +1,29 @@
+{
+  "type": "metalborn:shapeless_forge",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "metalborn"
+    }
+  ],
+  "cooking_time": 400,
+  "experience": 2.0,
+  "ingredients": [
+    {
+      "tag": "forge:ingots/steel"
+    },
+    {
+      "item": "tconstruct:seared_brick"
+    },
+    {
+      "item": "tconstruct:scorched_brick"
+    },
+    {
+      "item": "minecraft:blaze_rod"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "xenon_materials:brimsteel_ingot"
+  }
+}

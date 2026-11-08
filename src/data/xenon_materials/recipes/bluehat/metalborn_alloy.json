@@ -1,0 +1,29 @@
+{
+  "type": "metalborn:shapeless_forge",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "metalborn"
+    }
+  ],
+  "cooking_time": 372,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "metalborn:ingot_like/cobalt"
+    },
+    {
+      "item": "tconstruct:sky_slime_ball"
+    },
+    {
+      "tag": "tconstruct:slimesteel_ingot"
+    },
+    {
+      "item": "minecraft:water_bottle"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "xenon_materials:bluehat_ingot"
+  }
+}

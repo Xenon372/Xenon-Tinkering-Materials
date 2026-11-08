@@ -1,0 +1,29 @@
+{
+  "type": "metalborn:shapeless_forge",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "metalborn"
+    }
+  ],
+  "cooking_time": 300,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "forge:ingots/amethyst_bronze"
+    },
+    {
+      "item": "tconstruct:soul_glass_pane"
+    },
+    {
+      "tag": "metalborn:ingot_like/quartz"
+    },
+    {
+      "tag": "metalborn:ingot_like/quartz"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "xenon_materials:midday_bronze_ingot"
+  }
+}

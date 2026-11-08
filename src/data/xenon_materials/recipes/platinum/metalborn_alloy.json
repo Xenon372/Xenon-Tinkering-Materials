@@ -1,0 +1,26 @@
+{
+  "type": "metalborn:shapeless_forge",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "metalborn"
+    }
+  ],
+  "cooking_time": 300,
+  "experience": 2.0,
+  "ingredients": [
+    {
+      "tag": "metalborn:ingot_like/netherite_scrap"
+    },
+    {
+      "item": "tconstruct:venom_bottle"
+    },
+    {
+      "item": "minecraft:blaze_rod"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "tag": "forge:ingots/platinum"
+  }
+}

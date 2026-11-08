@@ -1,0 +1,26 @@
+{
+  "type": "metalborn:shapeless_forge",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "metalborn"
+    }
+  ],
+  "cooking_time": 300,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "metalborn:ingot_like/iron"
+    },
+    {
+      "item": "tconstruct:scorched_brick"
+    },
+    {
+      "item": "minecraft:magma_cream"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "xenon_materials:vermillium_ingot"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "metalborn:shapeless_forge",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "metalborn"
+    }
+  ],
+  "cooking_time": 400,
+  "experience": 2.0,
+  "ingredients": [
+    {
+      "tag": "forge:ingots/steel"
+    },
+    {
+      "item": "tconstruct:ichor_slime_ball"
+    },
+    {
+      "item": "tconstruct:obsidian_pane"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "xenon_materials:grimslime_ingot"
+  }
+}

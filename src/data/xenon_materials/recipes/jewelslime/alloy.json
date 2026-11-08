@@ -2,8 +2,8 @@
   "type": "tconstruct:alloy",
   "inputs": [
     { "tag": "tconstruct:sky_slime",   "amount":   250 },
-    { "tag": "tconstruct:molten_diamond",     "amount":   200 },
-    { "tag": "tconstruct:molten_amethyst",     "amount":   300 },
+    { "tag": "tconstruct:molten_diamond",     "amount":   100 },
+    { "tag": "tconstruct:molten_amethyst",     "amount":   200 },
     { "tag": "tconstruct:molten_quartz",     "amount":   100 }
   ],
   "result": {

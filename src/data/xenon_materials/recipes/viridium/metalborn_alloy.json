@@ -1,0 +1,29 @@
+{
+  "type": "metalborn:shapeless_forge",
+  "conditions": [
+    {
+      "type": "forge:mod_loaded",
+      "modid": "metalborn"
+    }
+  ],
+  "cooking_time": 300,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "forge:ingots/steel"
+    },
+    {
+      "tag": "metalborn:ingot_like/quartz"
+    },
+    {
+      "tag": "metalborn:ingot_like/emerald"
+    },
+    {
+      "tag": "metalborn:ingot_like/emerald"
+    }
+  ],
+  "result": {
+    "count": 2,
+    "item": "xenon_materials:viridium_ingot"
+  }
+}
