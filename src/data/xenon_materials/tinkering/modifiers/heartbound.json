@@ -1,0 +1,36 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:conditional_stat",
+      "formula": [
+        "$health",
+        20.0,
+        "-",
+        25.0,
+        "/",
+        "non-negative",
+        0.75,
+        "*",
+        0.15,
+        "$level",
+        "*",
+        "min",
+        1.0,
+        "+",
+        "$value",
+        "*"
+      ],
+      "percent": true,
+      "stat": "constructs_casting:spell_power",
+      "variables": {
+        "health": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:attribute",
+          "attribute": "minecraft:generic.max_health",
+          "fallback": 20.0
+        }
+      }
+    }
+  ]
+}

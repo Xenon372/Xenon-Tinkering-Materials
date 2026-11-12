@@ -3,6 +3,10 @@
     "tconstruct:binding": {},
     "tconstruct:bowstring": {},
     "tconstruct:cuirass": {},
-    "tconstruct:maille": {}
+    "tconstruct:maille": {},
+    "constructs_casting:magic_cloth": {
+      "cooldown_reduction": 0.10,
+      "spell_slots": 10.0
+    }
   }
 }

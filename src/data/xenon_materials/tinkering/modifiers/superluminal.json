@@ -1,0 +1,57 @@
+{
+  "level_display": "tconstruct:default",
+  "modules": [
+    {
+      "type": "tconstruct:material_variant_color",
+      "material": "xenon_materials:hardlight"
+    },
+    {
+      "type": "tconstruct:conditional_stat",
+      "formula": [
+        1.0,
+        "$equipment",
+        "-",
+        0.16,
+        "*",
+        "$level",
+        "*",
+        "$value",
+        "+"
+      ],
+      "percent": true,
+      "stat": "constructs_casting:spell_power",
+      "variables": {
+        "equipment": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:armor_coverage",
+          "fallback": 0.0,
+          "which": "attacker"
+        }
+      }
+    },
+    {
+      "type": "tconstruct:conditional_stat",
+      "formula": [
+        1.0,
+        "$equipment",
+        "-",
+        0.15,
+        "*",
+        "$level",
+        "*",
+        "$value",
+        "+"
+      ],
+      "percent": true,
+      "stat": "constructs_casting:cooldown_reduction",
+      "variables": {
+        "equipment": {
+          "type": "tconstruct:entity",
+          "entity_type": "tconstruct:armor_coverage",
+          "fallback": 0.0,
+          "which": "attacker"
+        }
+      }
+    }
+  ]
+}

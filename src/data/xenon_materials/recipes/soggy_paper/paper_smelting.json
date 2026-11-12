@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "group": "tconstruct:slime_crystal",
+  "ingredient": {
+    "item": "xenon_materials:soggy_paper"
+  },
+  "result": "minecraft:paper"
+}

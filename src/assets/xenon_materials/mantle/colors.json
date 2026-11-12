@@ -5,8 +5,10 @@
 		"bulwark": "#7E2846",
 		"hearty_protection":  "#7E2846",
 		"flimsy":  "#E9EAEB",
+		"soggyspells":  "#E9EAEB",
 		"frostborn":  "#A1C3FF",
 		"frigid":  "#A1C3FF",
+		"frostyspells":  "#A1C3FF",
 		"insomniac":  "#6A4C79",
 		"nightstalker":  "#6A4C79",
 		"dexterous":  "#6A4C79",
@@ -16,7 +18,9 @@
 		"earth_eater":  "#C7A877",
 		"sporeshot":  "#C7A877",
 		"sporeburst":  "#C7A877",
+		"shroomspells":  "#C7A877",
 		"overheart":   "#945BFF",
+		"heartbound":   "#945BFF",
 		"overreap":   "#9E4416",
 		"overward":   "#9E4416",
 		"overdraw":   "#9E4416",
@@ -30,6 +34,7 @@
 		"hyperthermic":   "#414553",
 		"firewall":   "#414553",
 		"oscillating":   "#5987C8",
+		"superluminal":   "#5987C8",
 		"crepuscular":   "#7FB0FF"
   },
   "material.xenon_materials": {

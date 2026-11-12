@@ -16,10 +16,10 @@
       "item": "tconstruct:sky_slime_ball"
     },
     {
-      "tag": "tconstruct:slimesteel_ingot"
+      "item": "tconstruct:slimesteel_ingot"
     },
     {
-      "item": "minecraft:water_bottle"
+      "item": "minecraft:blue_wool"
     }
   ],
   "result": {

@@ -16,6 +16,8 @@
 		"*",
 		"$level",
 	    "*",
+	  	"$multiplier",
+	  	"*",
 	    "$damage",
 	    "+"
 	   ],

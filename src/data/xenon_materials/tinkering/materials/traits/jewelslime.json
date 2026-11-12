@@ -2,5 +2,10 @@
   "default": [
     { "name": "xenon_materials:overheart", "level": 1 },
     { "name": "tconstruct:overslime", "level": 1 }
-  ]
+  ],
+  "perStat": {
+    "constructs_casting:adornment": [
+      { "name": "xenon_materials:heartbound", "level": 1 }
+    ]
+  }
 }

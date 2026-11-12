@@ -1,0 +1,23 @@
+{
+  "level_display": "tconstruct:single_level",
+  "modules": [
+    {
+      "type": "tconstruct:modifier_slot",
+      "each_level": 2,
+      "name": "upgrades"
+    },
+    {
+      "type": "tconstruct:attribute",
+      "attribute": "irons_spellbooks:spell_power",
+      "each_level": -0.1,
+      "operation": "multiply_base",
+      "slots": [
+        "mainhand",
+        "feet",
+        "legs",
+        "chest",
+        "head"
+      ]
+    }
+  ]
+}

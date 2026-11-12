@@ -25,6 +25,9 @@
       "velocity": -0.05
     },
     "tconstruct:maille": {},
-    "tconstruct:shield_core": {}
+    "tconstruct:shield_core": {},
+    "constructs_casting:magic_base": {
+      "max_mana": 95.0
+    }
   }
 }

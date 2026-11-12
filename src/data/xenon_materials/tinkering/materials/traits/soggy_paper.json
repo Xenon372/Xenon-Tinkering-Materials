@@ -5,6 +5,9 @@
   "perStat": {
     "joy_of_tinkering:propellant": [
       { "name": "tconstruct:weak", "level": 1 }
+    ],
+    "constructs_casting:magic_cloth": [
+      { "name": "xenon_materials:soggyspells", "level": 1 }
     ]
   }
 }

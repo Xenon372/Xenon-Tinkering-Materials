@@ -11,6 +11,7 @@
       "mining_speed": 8.0,
       "mining_tier": "minecraft:diamond",
       "melee_attack": 2.0
-    }
+    },
+    "constructs_casting:adornment": {}
   }
 }

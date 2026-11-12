@@ -8,6 +8,9 @@
     ],
     "joy_of_tinkering:bullet_casing": [
       { "name": "xenon_materials:frigid", "level": 1 }
+    ],
+    "constructs_casting:magic_base": [
+      { "name": "xenon_materials:frostyspells", "level": 1 }
     ]
   }
 }

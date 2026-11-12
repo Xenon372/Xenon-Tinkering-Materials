@@ -26,6 +26,10 @@
     "tconstruct:maille": {},
     "tconstruct:shield_core": {},
     "tconstruct:arrow_shaft": {},
-    "joy_of_tinkering:bullet_casing": {}
+    "joy_of_tinkering:bullet_casing": {},
+    "constructs_casting:magic_base": {
+      "max_mana": 110.0,
+      "spell_power": 0.05
+    }
   }
 }

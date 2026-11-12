@@ -26,7 +26,8 @@
       "tconstruct:grip",
       "tconstruct:shield_core",
       "tconstruct:maille",
-      "tconstruct:arrow_shaft"
+      "tconstruct:arrow_shaft",
+      "constructs_casting:magic_base"
     ],
     "ignoreMaterialStats": false
   }

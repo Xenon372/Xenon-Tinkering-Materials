@@ -60,8 +60,8 @@
 
   "material.xenon_materials.vermillium": "Vermillium",
   "material.xenon_materials.vermillium.flavor": "Closer to violet than vermillion",
-  "material.xenon_materials.vermillium.encyclopedia": "Grants increased damage per health above 20, up to +1.6 damage times the modifier level.",
-  "material.xenon_materials.vermillium.encyclopedia.ranged": "Grants increased power per health above 20, up to +0.75 damage times the modifier level.",
+  "material.xenon_materials.vermillium.encyclopedia": "Grants +3% damage per health above 20, up to +15% damage times the modifier level.",
+  "material.xenon_materials.vermillium.encyclopedia.ranged": "Grants +0.16 power per health above 20, up to +0.8 damage times the modifier level.",
   "material.xenon_materials.vermillium.encyclopedia.armor": "Grants 1% protection per level per health above 14, up to 5% protection at 20 health.",
   
   "modifier.xenon_materials.bulwark": "Bulwark",
@@ -85,6 +85,10 @@
   "modifier.xenon_materials.flimsy.flavor": "Soft and squishy",
   "modifier.xenon_materials.flimsy.description": "Soggy paper may be weak, but it has more space for upgrades",
   "modifier.xenon_materials.flimsy.resistance": "Protection",
+
+  "modifier.xenon_materials.soggyspells": "Soggyspells",
+  "modifier.xenon_materials.soggyspells.flavor": "Soft and squishy",
+  "modifier.xenon_materials.soggyspells.description": "Soggy paper may be weak, but it has more space for upgrades",
   
   "item.xenon_materials.pykrete_bar": "Pykrete Bar",
   "material.xenon_materials.pykrete": "Pykrete",
@@ -105,6 +109,12 @@
   "modifier.xenon_materials.frigid.flavor": "Cold-hearted",
   "modifier.xenon_materials.frigid.description": "Projectile deals more damage to fire-based creatures",  
   "modifier.xenon_materials.frigid.projectile_damage": "Frigid Power",
+
+  "modifier.xenon_materials.frostyspells": "Frostyspells",
+  "modifier.xenon_materials.frostyspells.flavor": "Stay frosty!",
+  "modifier.xenon_materials.frostyspells.description": "Increases spell power and cooldowns in cold biomes, reduces spell power and cooldowns in hot biomes.",
+  "modifier.xenon_materials.frostyspells.cooldown_reduction": "Frosty Cooldown Reduction",
+  "modifier.xenon_materials.frostyspells.spell_power": "Frosty Spell Power",
   
   "block.xenon_materials.midnight_bronze_block": "Midnight Bronze Block",
   "item.xenon_materials.midnight_bronze_ingot": "Midnight Bronze Ingot",
@@ -189,6 +199,10 @@
   "modifier.xenon_materials.sporeburst": "Sporeburst",
   "modifier.xenon_materials.sporeburst.flavor": "The power of the mighty mushroom!",
   "modifier.xenon_materials.sporeburst.description": "Has a chance to poison attackers",
+
+  "modifier.xenon_materials.shroomspells": "Shroomspells",
+  "modifier.xenon_materials.shroomspells.flavor": "Buffs nature magic, but at what cost?",
+  "modifier.xenon_materials.shroomspells.description": "Grants +10% Nature Spell Power, at the cost of -10% Fire Spell Resistance",
   
   "block.xenon_materials.jewelslime_block": "Jewelslime Block",
   "item.xenon_materials.jewelslime_gem": "Jewelslime Gem",
@@ -207,6 +221,11 @@
   "modifier.xenon_materials.overheart": "Overheart",
   "modifier.xenon_materials.overheart.flavor": "Now includes all the colours of the spectrum!",
   "modifier.xenon_materials.overheart.description": "Grants additional health based on overslime capacity",
+
+  "modifier.xenon_materials.heartbound": "Heartbound",
+  "modifier.xenon_materials.heartbound.flavor": "True magic comes from the heart",
+  "modifier.xenon_materials.heartbound.description": "Grants +3% spell power per health above 20, up to +15% spell power times the modifier level.",
+  "modifier.xenon_materials.heartbound.spell_power": "Heartbound Spell Power",
   
   "block.xenon_materials.grimslime_block": "Grimslime Block",
   "item.xenon_materials.grimslime_ingot": "Grimslime Ingot",
@@ -400,6 +419,12 @@
   "modifier.xenon_materials.oscillating.description": "Tool deals more damage against armored targets and breaks harder blocks faster",
   "modifier.xenon_materials.oscillating.attack_damage": "Oscillating Damage",
   "modifier.xenon_materials.oscillating.mining_speed": "Max Oscillating Speed",
+
+  "modifier.xenon_materials.superluminal": "Superluminal",
+  "modifier.xenon_materials.superluminal.flavor": "Faster than light",
+  "modifier.xenon_materials.superluminal.description": "Increases spell power by 4% and cooldown reduction by 15% per piece of armor you don't wear",
+  "modifier.xenon_materials.superluminal.spell_power": "Superluminal Spell Power",
+  "modifier.xenon_materials.superluminal.cooldown_reduction": "Superluminal Cooldown Reduction",
 
   "item.xenon_materials.firelight_silk": "Firelight Silk",
   "material.xenon_materials.firelight_silk": "Firelight Silk",
