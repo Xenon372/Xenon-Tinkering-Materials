@@ -224,7 +224,7 @@
 
   "modifier.xenon_materials.heartbound": "Heartbound",
   "modifier.xenon_materials.heartbound.flavor": "True magic comes from the heart",
-  "modifier.xenon_materials.heartbound.description": "Grants +3% spell power per health above 20, up to +15% spell power times the modifier level.",
+  "modifier.xenon_materials.heartbound.description": "Grants +2% spell power per health above 20, up to +10% spell power times the modifier level.",
   "modifier.xenon_materials.heartbound.spell_power": "Heartbound Spell Power",
   
   "block.xenon_materials.grimslime_block": "Grimslime Block",

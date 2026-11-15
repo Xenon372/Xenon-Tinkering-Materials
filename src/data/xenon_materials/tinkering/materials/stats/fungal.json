@@ -27,7 +27,7 @@
     "tconstruct:maille": {},
     "tconstruct:shield_core": {},
     "constructs_casting:magic_base": {
-      "max_mana": 95.0
+      "max_mana": 115.0
     }
   }
 }
