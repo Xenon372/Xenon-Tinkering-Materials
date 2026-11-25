@@ -1,13 +1,12 @@
 {
   "replace": false,
   "values": [
-    "xenon_materials:viridium",
     "xenon_materials:neutralite",
     "xenon_materials:vermillium",
     "xenon_materials:ferroshroom",
-    "xenon_materials:aurucelium",
     "xenon_materials:bluehat",
     "xenon_materials:platinum",
+    "xenon_materials:firelight_silk",
     "xenon_materials:twilight_bronze"
   ]
 }
